@@ -5,7 +5,7 @@
 
 We constantly sweep the web to catalog the highest potential .LIGHTING one-word domains still available to buy.
 
-This dataset contains 4,630 .LIGHTING one word domains with availability, attractiveness and demand scores.
+This dataset contains 4,627 .LIGHTING one word domains with availability, attractiveness and demand scores.
 
 If you want to search & filters the complete database of [.LIGHTING one word domains](https://unique.domains?utm_source=github&utm_medium=dataset&utm_campaign=lighting-oneword-domains&utm_content=description.top) (4,631) and analyse SEO, demand and valuation, we've build unique.domains, a SaaS designed for domain investors and solopreneurs.
 
@@ -21,7 +21,7 @@ If you want to search & filters the complete database of [.LIGHTING one word dom
 
 | Domain              | Status    | Attract. | Demand | Length | Registrar | Created | Expires |
 | ------------------- | --------- | -------- | ------ | ------ | --------- | ------- | ------- |
-| aaa.lighting        | available | 70       | 38%    | 3      |           |         |         |
+| aaa.lighting        | premium   | 70       | 38%    | 3      |           |         |         |
 | aaron.lighting      | available | 88       | 32%    | 5      |           |         |         |
 | abactinal.lighting  | available | 50       | 1%     | 9      |           |         |         |
 | abaft.lighting      | available | 43       | 2%     | 5      |           |         |         |
