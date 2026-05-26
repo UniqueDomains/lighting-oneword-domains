@@ -16,7 +16,7 @@ Daily-updated public extract of available and resale .lighting one-word domains 
 
 **Public extract:** 1,000 rows · **Live catalog:** 12,299 domains · **Median ask:** $16.86 · **High-demand under $2,500:** 0
 
-**Last updated:** 2026-05-15  
+**Last updated:** 2026-05-26  
 **Canonical page:** `https://unique.domains/domains/tld/lighting`  
 **Best for:** founders, investors, studios
 
@@ -67,10 +67,10 @@ print(df.head())
 | finals.lighting        | available | $14.99    | —             | 80             | 7      | 6      | name.com         |
 | forces.lighting        | available | $14.99    | —             | 82             | 12     | 6      | name.com         |
 | geton.lighting         | available | $14.99    | —             | 82             | 10     | 6      | name.com         |
-| popup.lighting         | available | $14.99    | —             | 84             | 29     | 6      | name.com         |
+| popup.lighting         | available | $14.99    | —             | 84             | 28     | 6      | name.com         |
 | toneup.lighting        | available | $14.99    | —             | 80             | 5      | 7      | name.com         |
 | hangon.lighting        | available | $14.99    | —             | 82             | 6      | 7      | name.com         |
-| makeit.lighting        | available | $14.99    | —             | 82             | 22     | 7      | name.com         |
+| makeit.lighting        | available | $14.99    | —             | 82             | 21     | 7      | name.com         |
 | pierogi.lighting       | available | $14.99    | —             | 82             | 7      | 7      | name.com         |
 | watches.lighting       | available | $14.99    | —             | 84             | 19     | 7      | name.com         |
 | dogsick.lighting       | available | $14.99    | —             | 90             | 1      | 7      | name.com         |
@@ -142,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .LIGHTING One-Word Domains*. Version 2026-05-15. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .LIGHTING One-Word Domains*. Version 2026-05-26. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
