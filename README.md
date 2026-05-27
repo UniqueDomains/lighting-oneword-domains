@@ -78,7 +78,7 @@ print(df.head())
 | cars.lighting          | resell    | —         | —             | 66             | 47     | 4      | Dynadot Inc      |
 | slots.lighting         | premium   | $23.60    | $23.60        | 49             | 31     | 5      | namesilo         |
 | skills.lighting        | available | $14.99    | —             | 58             | 47     | 6      | name.com         |
-| pestcontrol.lighting   | resell    | —         | —             | 74             | 18     | 12     | GoDaddy.com, LLC |
+| pestcontrol.lighting   | resell    | —         | —             | 74             | 16     | 12     | GoDaddy.com, LLC |
 | Jim.lighting           | premium   | $28       | $28           | 78             | 28     | 3      | namecheap        |
 | Ryan.lighting          | available | $31.98    | —             | 60             | 44     | 4      | namecheap        |
 | VirginiaBeach.lighting | premium   | $28       | $28           | 58             | 9      | 14     | namecheap        |
