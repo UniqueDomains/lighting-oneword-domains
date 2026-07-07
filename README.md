@@ -14,10 +14,10 @@ Daily-updated public extract of available and resale .lighting one-word domains 
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
 > The full live catalog for this exact search currently contains **12,299 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 12,299 domains · **Median ask:** $16.86 · **High-demand under $2,500:** 0
+**Public extract:** 1,000 rows · **Live catalog:** 12,299 domains · **Median ask:** $16.38 · **High-demand under $2,500:** 0
 
-**Last updated:** 2026-05-26  
-**Canonical page:** `https://unique.domains/domains/tld/lighting`  
+**Last updated:** 2026-07-07
+**Canonical page:** `https://unique.domains/domains/tld/lighting`
 **Best for:** founders, investors, studios
 
 ---
@@ -43,13 +43,13 @@ This repository is the public extract for Unique Domains' .LIGHTING one-word dom
 
 ### Files
 
-- `lighting.csv` — public CSV extract (1,000 rows)
-- `lighting.json` — public JSON extract (1,000 rows)
-- `DATA_DICTIONARY.md` — field definitions for the exported files
-- `METHODOLOGY.md` — scope, refresh policy, and caveats
-- `CHANGELOG.md` — latest snapshot metadata
-- `CITATION.cff` — machine-readable dataset citation metadata
-- `LICENSE` — terms for the public extract
+- `lighting.csv`, public CSV extract (1,000 rows)
+- `lighting.json`, public JSON extract (1,000 rows)
+- `DATA_DICTIONARY.md`, field definitions for the exported files
+- `METHODOLOGY.md`, scope, refresh policy, and caveats
+- `CHANGELOG.md`, latest snapshot metadata
+- `CITATION.cff`, machine-readable dataset citation metadata
+- `LICENSE`, terms for the public extract
 
 ## 🧭 Quick start
 
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain                 | status    | ask_price | renewal_price | attractiveness | demand | length | registrar        |
-| ---------------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | ---------------- |
-| finals.lighting        | available | $14.99    | —             | 80             | 7      | 6      | name.com         |
-| forces.lighting        | available | $14.99    | —             | 82             | 12     | 6      | name.com         |
-| geton.lighting         | available | $14.99    | —             | 82             | 10     | 6      | name.com         |
-| popup.lighting         | available | $14.99    | —             | 84             | 28     | 6      | name.com         |
-| toneup.lighting        | available | $14.99    | —             | 80             | 5      | 7      | name.com         |
-| hangon.lighting        | available | $14.99    | —             | 82             | 6      | 7      | name.com         |
-| makeit.lighting        | available | $14.99    | —             | 82             | 21     | 7      | name.com         |
-| pierogi.lighting       | available | $14.99    | —             | 82             | 7      | 7      | name.com         |
-| watches.lighting       | available | $14.99    | —             | 84             | 19     | 7      | name.com         |
-| dogsick.lighting       | available | $14.99    | —             | 90             | 1      | 7      | name.com         |
-| robots.lighting        | available | $14.99    | —             | 62             | 47     | 6      | name.com         |
-| cars.lighting          | resell    | —         | —             | 66             | 47     | 4      | Dynadot Inc      |
-| slots.lighting         | premium   | $23.60    | $23.60        | 49             | 31     | 5      | namesilo         |
-| skills.lighting        | available | $14.99    | —             | 58             | 47     | 6      | name.com         |
-| pestcontrol.lighting   | resell    | —         | —             | 74             | 16     | 12     | GoDaddy.com, LLC |
-| Jim.lighting           | premium   | $28       | $28           | 78             | 28     | 3      | namecheap        |
-| Ryan.lighting          | available | $31.98    | —             | 60             | 44     | 4      | namecheap        |
-| VirginiaBeach.lighting | premium   | $28       | $28           | 58             | 9      | 14     | namecheap        |
-| aliens.lighting        | available | $14.99    | —             | 56             | 35     | 6      | name.com         |
-| carols.lighting        | premium   | $28       | $28           | 56             | 7      | 6      | namecheap        |
+| domain           | status    | ask_price | renewal_price | attractiveness | demand | length | registrar           |
+| ---------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | ------------------- |
+| okay.lighting    | available | $14.99    | $33.99        | high           | low    | 4      | name.com            |
+| yes.lighting     | premium   | $23.60    | $23.60        | high           | medium | 3      | namesilo            |
+| ana.lighting     | available | $14.99    | —             | high           | low    | 3      | name.com            |
+| cool.lighting    | resell    | —         | —             | high           | low    | 4      | GoDaddy.com, LLC    |
+| act.lighting     | premium   | $23.60    | $23.60        | high           | low    | 3      | namesilo            |
+| ive.lighting     | available | $14.99    | —             | medium         | low    | 3      | name.com            |
+| food.lighting    | resell    | —         | —             | high           | medium | 4      | united-domains GmbH |
+| ADS.lighting     | premium   | $23.60    | $23.60        | high           | medium | 3      | namesilo            |
+| nan.lighting     | available | $14.99    | —             | high           | low    | 3      | name.com            |
+| Women.lighting   | resell    | —         | —             | medium         | low    | 5      | GoDaddy.com, LLC    |
+| bud.lighting     | premium   | $23.60    | $23.60        | high           | low    | 3      | namesilo            |
+| sip.lighting     | available | $14.99    | —             | medium         | low    | 3      | name.com            |
+| bright.lighting  | resell    | —         | —             | high           | low    | 6      | Sav.com, LLC        |
+| cow.lighting     | premium   | $23.60    | $23.60        | high           | low    | 3      | namesilo            |
+| xxv.lighting     | available | $14.99    | $33.99        | medium         | low    | 3      | name.com            |
+| united.lighting  | resell    | —         | —             | high           | medium | 6      | Sav.com, LLC        |
+| coy.lighting     | premium   | $26       | $26           | medium         | low    | 3      | namecheap           |
+| babe.lighting    | available | $14.99    | —             | high           | low    | 4      | name.com            |
+| diamond.lighting | resell    | —         | —             | high           | low    | 7      | Sav.com, LLC - 21   |
+| dry.lighting     | premium   | $26       | $26           | high           | low    | 3      | namecheap           |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -105,27 +105,27 @@ If this sample already feels useful, Unique Domains is where the exact search be
 
 ## 🧱 Field summary
 
-- `domain` — Fully qualified domain name.
-- `status` — Current acquisition state for the domain in the public extract.
-- `purchase_price` — Visible purchase price when available.
-- `renewal_price` — Visible renewal price when available.
-- `attractiveness` — Composite naming score used as a decision-support signal.
-- `demand` — Relative buyer-pressure score when available.
-- `length` — Character count without the TLD.
-- `registrar` — Registrar name when known.
-- `created_at` — Creation timestamp when known.
-- `expires_at` — Expiry timestamp when known.
+- `domain`, Fully qualified domain name.
+- `status`, Current acquisition state for the domain in the public extract.
+- `purchase_price`, Visible purchase price when available.
+- `renewal_price`, Visible renewal price when available.
+- `attractiveness`, Public composite naming band used as a decision-support signal.
+- `demand`, Public buyer-pressure band when available.
+- `length`, Character count without the TLD.
+- `registrar`, Registrar name when known.
+- `created_at`, Creation timestamp when known.
+- `expires_at`, Expiry timestamp when known.
 
 See [DATA_DICTIONARY.md](./DATA_DICTIONARY.md) for full definitions and types.
 
 ## ⚠️ Methodology and caveats
 
-These domains are one-word names on the .lighting extension. The set spans generic terms, action words, and broader dictionary words such as tips.lighting, girls.lighting, finals.lighting, and geton.lighting. For founders, the main question is whether the word is memorable, relevant to a lighting business, and easy to defend as a brand. For investors, the key is whether the term has clear commercial meaning inside the lighting category and can justify its carry cost over time. Because the median ask is 16.86, better decisions come from judging naming quality, keyword fit, and possible trademark friction, not just low entry price.
+This is a list of .lighting domain names drawn from a current pool of 12,299 available options. It includes short, brandable single words such as half.lighting, out.lighting, and feel.lighting, alongside descriptive and industry-specific names like neuroscience.lighting. The median asking price across the set is $16.38, close to standard registration cost. Updated daily.
 
-- Prefer words that fit lighting, fixtures, design, or illumination
-- Generic dictionary terms are clearer than obscure or forced words
-- Check renewal economics before judging a low ask as a deal
-- Avoid terms that may imply trademark conflict or narrow reuse
+- 12,299 .lighting domains, from single words to brand-style names
+- Median ask: $16.38 — near registry cost across the set
+- Ownable short picks: half, out, feel, okay, correct lighting
+- Watch trademark risk: e.g. MickeyMouse.lighting
 
 See [METHODOLOGY.md](./METHODOLOGY.md) for the full methodology reference.
 
@@ -142,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .LIGHTING One-Word Domains*. Version 2026-05-26. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .LIGHTING One-Word Domains*. Version 2026-07-07. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
