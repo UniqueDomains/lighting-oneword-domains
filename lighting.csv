@@ -1,5 +1,4 @@
 id,domain,status,purchase_price,renewal_price,attractiveness,demand,length,registrar,created_at,expires_at,status_verified_at
-c3865d01-b2cf-4d70-a4a6-070d901b278f,name.lighting,available,,,high,low,4,,,,
 9732be26-79da-434a-b9a2-44c6092f38ea,useful.lighting,available,14.99,,high,low,6,name.com,,,
 cd3d311d-5999-46b1-a0fd-a4815eccf39d,customer.lighting,available,14.99,,high,low,8,name.com,,,
 cc1adc00-be47-4366-b45c-6986d3f6d534,yearly.lighting,available,14.99,,high,low,6,name.com,,,
@@ -679,7 +678,7 @@ fd60e531-3469-46de-b15d-a9963590506f,diligence.lighting,available,14.99,,high,lo
 a9cec5c8-c730-4c9d-8333-4e5e069fb32b,atsea.lighting,available,14.99,33.99,low,low,6,name.com,,,07/08/2026 12:16
 5365c9e0-feb4-4cbd-92af-83a4627f1c16,whitesatin.lighting,available,14.99,,medium,low,11,name.com,,,
 005b6d7f-c677-44e1-8865-cb103211a341,racist.lighting,available,14.99,33.99,low,low,6,name.com,,,
-7e5a6241-531a-4166-800d-7040e13e790d,bright.lighting,resell,,,high,low,6,"Sav.com, LLC",04/07/2018 07:50,04/07/2026 07:50,
+7e5a6241-531a-4166-800d-7040e13e790d,bright.lighting,resell,,,high,low,6,"Sav.com, LLC",04/07/2018 07:50,04/07/2027 07:50,17/09/2026 14:29
 b6670e30-655d-4127-84dc-2dc4362f3ad4,apiarian.lighting,available,14.99,33.99,low,low,8,name.com,,,05/08/2026 23:53
 2b89474f-a5f7-49e7-85c6-73a6dbffb3fe,beady.lighting,available,14.99,33.99,low,low,5,name.com,,,09/08/2026 03:23
 cb682aff-348f-4fee-8e07-a82e58e1d0a5,vandalism.lighting,available,14.99,,medium,low,9,name.com,,,
@@ -999,3 +998,4 @@ b8027f88-21d6-40c8-895f-1900e4a8a81f,accuser.lighting,available,14.99,,medium,lo
 1391cc39-8404-496a-b344-c3e32e6dcd6c,esthetical.lighting,available,14.99,33.99,high,low,10,name.com,,,
 929d3571-d008-49b5-9470-9d93c0cd0d03,shirt.lighting,available,14.99,,high,low,5,name.com,,,
 b1d48d89-9f9b-448b-a60c-463ff136b198,endurable.lighting,available,14.99,33.99,low,low,9,name.com,,,09/08/2026 04:33
+ebb5510a-0103-41e5-84db-354ccab3d4f3,patient.lighting,available,14.99,,medium,low,7,name.com,,,
