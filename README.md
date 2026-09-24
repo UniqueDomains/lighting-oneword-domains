@@ -16,7 +16,7 @@ Daily-updated public extract of available and resale .lighting one-word domains 
 
 **Public extract:** 1,000 rows · **Live catalog:** 31,365 domains · **Median ask:** $19.27 · **High-demand under $2,500:** 1
 
-**Last updated:** 2026-09-23
+**Last updated:** 2026-09-24
 **Canonical page:** `https://unique.domains/domains/tld/lighting`
 **Best for:** founders, investors, studios
 
@@ -65,25 +65,25 @@ print(df.head())
 | domain             | status    | ask_price | renewal_price | attractiveness | demand | length | registrar           |
 | ------------------ | --------- | --------- | ------------- | -------------- | ------ | ------ | ------------------- |
 | abo.lighting       | available | $14.99    | $33.99        | low            | low    | 3      | name.com            |
-| cool.lighting      | resell    | —         | —             | high           | low    | 4      | GoDaddy.com, LLC    |
+| food.lighting      | resell    | —         | —             | medium         | low    | 4      | united-domains GmbH |
 | act.lighting       | premium   | $23.60    | $23.60        | high           | low    | 3      | namesilo            |
 | ana.lighting       | available | $14.99    | —             | high           | low    | 3      | name.com            |
-| food.lighting      | resell    | —         | —             | medium         | low    | 4      | united-domains GmbH |
+| women.lighting     | resell    | —         | —             | medium         | low    | 5      | GoDaddy.com, LLC    |
 | ads.lighting       | premium   | $23.60    | $23.60        | high           | medium | 3      | namesilo            |
 | azo.lighting       | available | $14.99    | $33.99        | low            | low    | 3      | name.com            |
-| women.lighting     | resell    | —         | —             | medium         | low    | 5      | GoDaddy.com, LLC    |
+| bright.lighting    | resell    | —         | —             | medium         | low    | 6      | Sav.com, LLC        |
 | bud.lighting       | premium   | $23.60    | $23.60        | high           | low    | 3      | namesilo            |
 | ive.lighting       | available | $14.99    | —             | medium         | low    | 3      | name.com            |
-| bright.lighting    | resell    | —         | —             | high           | low    | 6      | Sav.com, LLC        |
+| united.lighting    | resell    | —         | —             | high           | medium | 6      | Sav.com, LLC        |
 | cow.lighting       | premium   | $23.60    | $23.60        | high           | low    | 3      | namesilo            |
 | lxv.lighting       | available | $14.99    | $33.99        | low            | low    | 3      | name.com            |
-| united.lighting    | resell    | —         | —             | high           | medium | 6      | Sav.com, LLC        |
-| coy.lighting       | premium   | $26       | $26           | medium         | low    | 3      | namecheap           |
-| lxx.lighting       | available | $14.99    | $33.99        | low            | low    | 3      | name.com            |
 | landscape.lighting | resell    | —         | —             | high           | low    | 9      | Dynadot Inc         |
+| coy.lighting       | premium   | $23.60    | $23.60        | low            | low    | 3      | namesilo            |
+| lxx.lighting       | available | $14.99    | $33.99        | low            | low    | 3      | name.com            |
 | dry.lighting       | premium   | $26       | $26           | high           | low    | 3      | namecheap           |
 | nan.lighting       | available | $14.99    | —             | high           | low    | 3      | name.com            |
 | due.lighting       | premium   | $23.60    | $23.60        | low            | low    | 3      | namesilo            |
+| sip.lighting       | available | $14.99    | —             | medium         | low    | 3      | name.com            |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -144,7 +144,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .LIGHTING One-Word Domains*. Version 2026-09-23. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .LIGHTING One-Word Domains*. Version 2026-09-24. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
