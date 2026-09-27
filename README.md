@@ -1,10 +1,10 @@
-# Available .LIGHTING One-Word Domains (22,603)
+# Available .LIGHTING One-Word Domains (23,018)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
   <img alt="public extract" src="https://img.shields.io/badge/public%20extract-1%2C000%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-22%2C603%20domains-6f42c1">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-23%2C018%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
@@ -12,9 +12,9 @@
 Daily-updated public extract of available and resale .lighting one-word domains from Unique Domains.
 
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
-> The full live catalog for this exact search currently contains **22,603 domains** on the canonical page below.
+> The full live catalog for this exact search currently contains **23,018 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 22,603 domains · **Median ask:** $20.39 · **High-demand under $2,500:** 4
+**Public extract:** 1,000 rows · **Live catalog:** 23,018 domains · **Median ask:** $20.52 · **High-demand under $2,500:** 4
 
 **Last updated:** 2026-09-27
 **Canonical page:** `https://unique.domains/domains/tld/lighting`
@@ -71,19 +71,19 @@ print(df.head())
 | iconic.lighting  | resell    | —         | —             | high           | medium | 6      | united-domains GmbH |
 | ads.lighting     | premium   | $23.60    | $23.60        | high           | medium | 3      | namesilo            |
 | gao.lighting     | available | $23.99    | $23.99        | high           | low    | 3      | namesilo            |
-| premium.lighting | resell    | —         | —             | high           | low    | 7      | GoDaddy.com, LLC    |
+| premium.lighting | resell    | —         | —             | high           | medium | 7      | GoDaddy.com, LLC    |
 | ask.lighting     | premium   | $23.60    | $23.60        | high           | medium | 3      | namesilo            |
 | ike.lighting     | available | $14.99    | —             | high           | low    | 3      | name.com            |
 | cry.lighting     | premium   | $23.60    | $23.60        | high           | low    | 3      | namesilo            |
 | liv.lighting     | available | $14.99    | $33.99        | high           | low    | 3      | name.com            |
 | des.lighting     | premium   | $23.60    | $23.60        | high           | low    | 3      | namesilo            |
-| yob.lighting     | available | $14.99    | $33.99        | medium         | low    | 3      | name.com            |
+| ste.lighting     | available | $23.99    | $23.99        | high           | low    | 3      | namesilo            |
 | err.lighting     | premium   | $23.60    | $23.60        | high           | low    | 3      | namesilo            |
-| agio.lighting    | available | $22.98    | $31.98        | medium         | low    | 4      | namecheap           |
+| yob.lighting     | available | $14.99    | $33.99        | medium         | low    | 3      | name.com            |
 | esp.lighting     | premium   | $23.60    | $23.60        | high           | low    | 3      | namesilo            |
-| akka.lighting    | available | $23.99    | $23.99        | high           | low    | 4      | namesilo            |
+| agio.lighting    | available | $22.98    | $31.98        | medium         | low    | 4      | namecheap           |
 | ill.lighting     | premium   | $23.60    | $23.60        | high           | low    | 3      | namesilo            |
-| aram.lighting    | available | $23.99    | $23.99        | high           | low    | 4      | namesilo            |
+| akka.lighting    | available | $23.99    | $23.99        | high           | low    | 4      | namesilo            |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -93,7 +93,7 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                             |
 | ----------------------- | ------------------------------------------ |
-| 1,000-row public sample | 22,603 live domains                        |
+| 1,000-row public sample | 23,018 live domains                        |
 | Static CSV / JSON       | live search and daily refresh              |
 | Basic exported fields   | 4 high-demand names under $2,500           |
 | No persistence          | Radar, saved search, and alerts            |
