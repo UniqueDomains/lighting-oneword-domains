@@ -4,9 +4,9 @@ id,domain,status,purchase_price,renewal_price,attractiveness,demand,length,regis
 4a76433d-7ba5-4612-977c-ae4f4d2497e1,cityfied.lighting,available,14.99,33.99,medium,low,8,name.com,,,12/08/2026 08:49
 9a7fa7a4-c738-4b4d-89d8-b2aff0395c60,stative.lighting,available,22.98,31.98,medium,low,7,namecheap,,,10/09/2026 19:14
 de945ecc-953e-4069-85b1-714ec943c93d,troglodyte.lighting,available,22.98,31.98,medium,low,10,namecheap,,,09/09/2026 11:43
-d14eca45-014c-4285-9c07-338d50fc18ea,spaciously.lighting,available,22.98,31.98,high,low,10,namecheap,,,16/09/2026 00:04
+d14eca45-014c-4285-9c07-338d50fc18ea,spaciously.lighting,available,22.98,31.98,medium,low,10,namecheap,,,16/09/2026 00:04
 6e02cec3-3854-4c90-9687-c7d35b9d085b,sunglass.lighting,available,14.99,,high,low,8,name.com,,,
-5ed4f442-299a-42fb-ab44-150f939c5f17,ricefield.lighting,available,14.99,,high,low,10,name.com,,,
+5ed4f442-299a-42fb-ab44-150f939c5f17,ricefield.lighting,available,14.99,,medium,low,10,name.com,,,
 9cc040fb-9b3f-4a8e-af41-ce5572370625,audubon.lighting,available,23.99,23.99,medium,low,7,namesilo,,,21/09/2026 03:14
 cdd8df4c-131c-4474-8050-b07294cf419a,legibly.lighting,available,22.98,31.98,medium,low,7,namecheap,,,14/09/2026 11:06
 05ae6312-a3cc-45c6-a692-1a183e0fcbe5,hirschfeld.lighting,available,23.99,23.99,medium,low,10,namesilo,,,18/09/2026 01:20
@@ -17,6 +17,7 @@ cdd8df4c-131c-4474-8050-b07294cf419a,legibly.lighting,available,22.98,31.98,medi
 f3ab7e38-50a9-40fd-b44c-f8760bfaed68,dividable.lighting,available,14.99,33.99,medium,low,9,name.com,,,14/08/2026 13:41
 d70ca846-d972-4113-8a30-0d17d1991d05,cxl.lighting,available,,,high,low,3,,,,
 7cd1320d-c5f5-4c45-90df-e029876e5ae0,battledore.lighting,available,22.98,31.98,medium,low,10,namecheap,,,21/09/2026 17:16
+91210a4c-99b4-47cd-8a0f-285f6953fd0b,chickens.lighting,available,8.24,19.05,medium,low,8,porkbun,,,27/09/2026 22:56
 ad176304-ca61-44f8-a5ed-19f431d89501,underarm.lighting,available,22.98,31.98,medium,low,8,namecheap,,,12/09/2026 07:21
 31c32f69-61ae-443a-90d5-d9563035b7a0,francisco.lighting,available,22.98,31.98,high,low,9,namecheap,,,25/09/2026 18:30
 e415e7de-e5f5-4fc1-98c1-4e34c0b6e883,babirusa.lighting,available,23.99,23.99,medium,low,8,namesilo,,,21/09/2026 12:44
@@ -33,8 +34,8 @@ d51bd89a-c929-4cc6-8b93-c9d7302b4347,jacks.lighting,premium,23.6,23.6,high,low,5
 eb7f42f8-dfdd-4aed-915b-f050793f8150,taunt.lighting,available,22.98,31.98,medium,low,5,namecheap,,,11/09/2026 09:13
 ac6685d0-42ca-4c05-9369-dd7f75de72fa,heracles.lighting,available,23.99,23.99,high,low,8,namesilo,,,18/09/2026 04:03
 ba921544-d761-470c-aebf-267de91fc395,esp.lighting,premium,23.6,23.6,high,low,3,namesilo,,,24/09/2026 15:12
-93374983-7744-4123-8848-28dbe9a5e887,wentworth.lighting,available,22.98,31.98,high,low,9,namecheap,,,25/09/2026 21:47
-55564396-e3f1-4803-9150-fb544189890d,roar.lighting,available,14.99,,high,low,4,name.com,,,
+93374983-7744-4123-8848-28dbe9a5e887,wentworth.lighting,available,22.98,31.98,medium,low,9,namecheap,,,25/09/2026 21:47
+55564396-e3f1-4803-9150-fb544189890d,roar.lighting,available,23.99,23.99,high,low,4,namesilo,,,27/09/2026 15:38
 3abba8ef-5371-4b5c-8849-216d012bed30,dotcom.lighting,available,14.99,33.99,high,low,7,name.com,,,14/08/2026 16:26
 ddd4678f-481d-45a3-9b3d-e8dc31ab11a7,poetry.lighting,available,23.99,23.99,high,low,6,namesilo,,,25/09/2026 10:00
 ba6a0ce6-26eb-4d6b-bd4d-a77aef5c377b,unlined.lighting,available,22.98,31.98,medium,low,7,namecheap,,,12/09/2026 14:54
@@ -43,6 +44,7 @@ d35f1c95-f4b0-4a1b-ba05-405abb16627d,scupper.lighting,available,23.99,23.99,medi
 762d5232-ae7c-46a4-8f15-3b9b1cb6ea16,valorous.lighting,available,22.98,31.98,medium,low,8,namecheap,,,13/09/2026 00:57
 1b73a786-dbd5-48ef-88f3-ebb701c43d65,transposed.lighting,available,22.98,31.98,medium,low,10,namecheap,,,11/09/2026 18:59
 740bce5d-597c-4479-8558-1e7cda068172,wiper.lighting,available,23.99,23.99,high,low,5,namesilo,,,24/09/2026 17:39
+9ecd268c-dff4-4388-ad2a-33a37ed1aa5d,nigel.lighting,available,18.2,18.2,high,low,5,cloudflare,,,27/09/2026 17:08
 6137b4ab-5121-4074-b176-ba87108dd324,routinely.lighting,available,14.99,33.99,medium,low,9,name.com,,,16/09/2026 00:11
 e3ada2e1-7f25-4685-b647-d9b84702b0bc,nullified.lighting,available,14.99,33.99,medium,low,9,name.com,,,22/08/2026 08:56
 b7b65520-5dae-4214-835c-4e4e39b42f29,alpinia.lighting,available,14.99,33.99,medium,low,7,name.com,,,18/09/2026 14:02
@@ -50,6 +52,7 @@ d15f18a2-b0d9-4ccb-8e63-c5b3a9716d4c,angularity.lighting,available,23.99,23.99,h
 ca57abde-8799-456d-981e-0767cbcd83b2,secondhand.lighting,available,22.98,31.98,high,low,10,namecheap,,,10/09/2026 01:09
 39dd9bef-7677-4751-bf2c-0ee3d96248cc,planetal.lighting,available,22.98,31.98,medium,low,8,namecheap,,,08/09/2026 20:42
 9fa9ca1d-1a2c-4f82-88ab-6dd753415abf,chemic.lighting,available,14.99,33.99,medium,low,6,name.com,,,12/08/2026 04:12
+4ce6adc1-5206-4515-a813-fcb053e0915b,ridge.lighting,available,23.99,23.99,high,low,5,namesilo,,,28/09/2026 03:01
 1744a336-bd25-4b62-91e3-affb941a191a,comforts.lighting,available,22.98,31.98,high,low,8,namecheap,,,18/09/2026 18:50
 08beb234-64cb-47e6-9af8-dc02638d2ebc,bridgeable.lighting,available,14.99,33.99,medium,low,10,name.com,,,11/08/2026 04:00
 4ef1f578-1789-4246-a9ca-05262344bd9b,ternate.lighting,available,22.98,31.98,medium,low,7,namecheap,,,11/09/2026 11:53
@@ -70,11 +73,11 @@ e6c66c9b-f97e-486a-9a10-0555a1a1777e,presents.lighting,available,22.98,31.98,hig
 80a534e8-fa94-4832-9b05-7957bcfc14ab,adrenalin.lighting,available,23.99,23.99,high,low,9,namesilo,,,17/09/2026 09:56
 2e3b1b49-c1c3-47dd-959c-2cde8c9907be,larghetto.lighting,available,14.99,33.99,medium,low,9,name.com,,,22/08/2026 19:57
 27938ac6-736c-48e6-afca-74986fec0333,clorox.lighting,available,23.99,23.99,high,low,6,namesilo,,,24/09/2026 15:53
-62739ef8-7bfa-42ab-814d-cec02ac01b26,arrested.lighting,available,22.98,31.98,high,low,8,namecheap,,,17/09/2026 20:22
+62739ef8-7bfa-42ab-814d-cec02ac01b26,arrested.lighting,available,22.98,31.98,medium,low,8,namecheap,,,17/09/2026 20:22
 e7e4eda1-ff0b-4b1f-8dc6-0536979e5179,assail.lighting,available,23.99,23.99,medium,low,6,namesilo,,,20/09/2026 15:49
 460ac157-232b-4f90-824d-ecb187df5f88,exclude.lighting,available,22.98,31.98,high,low,7,namecheap,,,22/09/2026 03:43
 15a054db-7da3-4772-8235-fc1c44375a8c,djiboutian.lighting,available,14.99,33.99,medium,low,10,name.com,,,14/08/2026 14:08
-e0a05ee4-ffdd-4fba-ac84-fb5e6c060136,formalized.lighting,available,14.99,33.99,high,low,10,name.com,,,18/08/2026 12:03
+e0a05ee4-ffdd-4fba-ac84-fb5e6c060136,formalized.lighting,available,14.99,33.99,medium,low,10,name.com,,,18/08/2026 12:03
 00e4467f-0aec-4c26-a431-dcf963582a44,nubby.lighting,available,14.99,33.99,medium,low,5,name.com,,,21/08/2026 11:15
 b99a8dc4-3f1f-49a7-94c0-49ce81d5c813,farseeing.lighting,available,14.99,33.99,medium,low,9,name.com,,,14/08/2026 22:22
 a2360b75-812e-4c8e-9584-f489228d5277,gettable.lighting,available,14.99,33.99,medium,low,8,name.com,,,18/08/2026 23:02
@@ -82,8 +85,8 @@ a2360b75-812e-4c8e-9584-f489228d5277,gettable.lighting,available,14.99,33.99,med
 dc378809-65d5-4eaf-982c-a450be4af289,velvetleaf.lighting,available,22.98,31.98,medium,low,10,namecheap,,,16/09/2026 19:24
 302db9cc-22ee-43b2-94b8-f8f25cc83cf5,allylic.lighting,available,14.99,33.99,medium,low,7,name.com,,,
 99b2f2b2-dfa9-4c42-8d30-2438cd3f80af,digitiser.lighting,available,23.99,23.99,high,low,9,namesilo,,,19/09/2026 01:52
-b25f4eeb-dbcb-44de-8e83-fde3bdd2fb4c,pickings.lighting,available,22.98,31.98,high,low,8,namecheap,,,11/09/2026 07:21
-f7a5e071-f296-4c5b-9d03-a7c1a3c4acb5,anesthetic.lighting,available,14.99,33.99,high,low,10,name.com,,,
+b25f4eeb-dbcb-44de-8e83-fde3bdd2fb4c,pickings.lighting,available,22.98,31.98,medium,low,8,namecheap,,,11/09/2026 07:21
+f7a5e071-f296-4c5b-9d03-a7c1a3c4acb5,anesthetic.lighting,available,14.99,33.99,medium,low,10,name.com,,,
 1d99ec50-c205-44e7-b657-3b55e6085791,axil.lighting,available,22.98,31.98,high,low,4,namecheap,,,21/09/2026 10:22
 f3fd8fb4-c517-4c06-900d-d6843965b503,azimuth.lighting,available,23.99,23.99,high,low,7,namesilo,,,21/09/2026 10:54
 bc1c558e-4ebb-431c-bc12-6d688d6468ed,dandyish.lighting,available,14.99,33.99,medium,low,8,name.com,,,13/08/2026 17:03
@@ -93,6 +96,7 @@ bc1c558e-4ebb-431c-bc12-6d688d6468ed,dandyish.lighting,available,14.99,33.99,med
 80500f91-d7ac-47f5-96b2-9579cd5cde97,monatomic.lighting,available,14.99,33.99,medium,low,9,name.com,,,25/08/2026 04:12
 346d9846-705c-40ba-89d9-9c887efec478,casserole.lighting,available,23.99,23.99,high,low,9,namesilo,,,24/09/2026 13:04
 36962702-b791-4501-bae3-3571899efedd,nonsense.lighting,available,14.99,33.99,high,low,8,name.com,,,18/08/2026 23:48
+598ed151-54d4-47a1-9eb0-d9b0f869dfaf,emblem.lighting,available,23.99,23.99,high,low,6,namesilo,,,28/09/2026 02:43
 aa1ef818-268c-4301-b36f-0ce90e3fe284,lammas.lighting,available,22.98,31.98,medium,low,6,namecheap,,,21/09/2026 03:43
 6ad47592-0dd0-4166-bba7-c774c64b2c58,pierre.lighting,available,23.99,23.99,high,low,6,namesilo,,,24/09/2026 12:24
 2de62cb3-8192-44c0-9cae-7e97efe58e19,backspacer.lighting,available,23.99,23.99,medium,low,10,namesilo,,,21/09/2026 16:02
@@ -102,17 +106,17 @@ c605d579-d97d-48dd-8158-4b41f513cd41,caught.lighting,available,14.99,,high,low,6
 3e021be6-00a4-4b3b-a082-5d0070aa04f5,anglerfish.lighting,available,23.99,23.99,medium,low,10,namesilo,,,18/09/2026 11:41
 8ff99356-a48b-43ee-8bf4-d8e49ee81ecf,devolve.lighting,available,14.99,33.99,medium,low,7,name.com,,,13/08/2026 23:59
 9d7daac0-fd62-42f0-b918-ee51fa9e804b,prole.lighting,available,22.98,31.98,medium,low,5,namecheap,,,09/09/2026 03:01
-52946c52-ffcc-423d-a6ad-01d390676163,xxiv.lighting,available,14.99,33.99,high,low,4,name.com,,,
+52946c52-ffcc-423d-a6ad-01d390676163,xxiv.lighting,available,14.99,33.99,medium,low,4,name.com,,,
 69da2a9b-2ab5-4bac-9fc5-f0329f49b850,ordnance.lighting,available,23.99,23.99,high,low,8,namesilo,,,20/09/2026 11:44
 79b876b2-f39c-4b00-a881-9524a17c58a3,retractile.lighting,available,22.98,31.98,medium,low,10,namecheap,,,09/09/2026 15:42
 63e8dca6-0a58-4aae-bdb9-83c1e5213b2a,rapt.lighting,available,14.99,33.99,high,low,4,name.com,,,14/08/2026 23:50
 90f3c86c-aa8e-4892-9ce9-6e1775fb1e78,lithesome.lighting,available,14.99,33.99,medium,low,9,name.com,,,24/08/2026 01:12
 e58a5ef3-f989-4401-9e78-00a0fd3ec963,alters.lighting,available,23.99,23.99,medium,low,6,namesilo,,,20/09/2026 13:23
-5cd4cf07-d8de-466c-9fd1-fa16d3203e81,incessant.lighting,available,14.99,33.99,high,low,9,name.com,,,11/08/2026 23:04
+5cd4cf07-d8de-466c-9fd1-fa16d3203e81,incessant.lighting,available,14.99,33.99,medium,low,9,name.com,,,11/08/2026 23:04
 9e93ed1e-93dc-4a1e-8447-ec71b62fd6f5,macho.lighting,available,14.99,33.99,high,low,5,name.com,,,11/08/2026 11:31
 664d2b0a-c881-40e8-96cf-e2fab5a1fedf,disliked.lighting,available,14.99,33.99,medium,low,8,name.com,,,14/08/2026 11:29
 82b700b5-40b5-403a-a3b0-b17ee0a19863,reticulate.lighting,available,22.98,31.98,high,low,10,namecheap,,,09/09/2026 15:32
-aa5e8381-9c8b-4f55-a0f8-e5841cf910bd,goofy.lighting,available,14.99,33.99,high,low,5,name.com,,,12/08/2026 14:50
+aa5e8381-9c8b-4f55-a0f8-e5841cf910bd,goofy.lighting,available,14.99,33.99,medium,low,5,name.com,,,12/08/2026 14:50
 0f119020-ff5a-4573-9ed6-044ddb37454d,exclusive.lighting,available,14.99,33.99,high,low,9,name.com,,,17/08/2026 16:33
 59c08aa0-5ad9-468f-ab4d-86ed9e412e06,formidably.lighting,available,22.98,31.98,medium,low,10,namecheap,,,14/09/2026 19:46
 5c5d6992-234f-44d4-b74e-98150ae08db5,bernoulli.lighting,available,22.98,31.98,medium,low,9,namecheap,,,23/09/2026 09:57
@@ -123,7 +127,7 @@ e4db138a-9981-4d92-9292-9dd2a6774942,boxers.lighting,available,14.99,,high,low,6
 dd252dbf-22e1-44e7-93e7-873304ebe894,dampness.lighting,available,14.99,33.99,medium,low,8,name.com,,,13/08/2026 16:45
 3624f6b9-e6da-4720-8600-2a08482d343a,biosensors.lighting,available,22.98,31.98,medium,low,10,namecheap,,,21/09/2026 02:37
 03cfc6a5-850f-45a2-a8a9-a05096813913,newborn.lighting,available,22.98,31.98,high,low,7,namecheap,,,03/09/2026 16:41
-9b8c43b6-fe9c-4e6e-a597-cd9d728ec77c,malaria.lighting,available,14.99,,high,low,7,name.com,,,
+9b8c43b6-fe9c-4e6e-a597-cd9d728ec77c,malaria.lighting,available,14.99,,medium,low,7,name.com,,,
 d3918795-5956-4db8-8857-487216f4e5d1,thread.lighting,available,14.99,,high,low,6,name.com,,,
 bacdaf9c-4434-4e52-8d79-17b0ee496890,babyish.lighting,available,14.99,33.99,medium,low,7,name.com,,,08/08/2026 03:53
 074fc065-7cef-4739-84f5-e6e8c01abea0,conducted.lighting,available,14.99,,medium,low,9,name.com,,,
@@ -135,6 +139,8 @@ fac9fc28-0652-46fe-b767-38f5f719aa74,abaya.lighting,available,14.99,33.99,medium
 c5812cbb-4d6f-453e-9e38-136cafc81cca,angolan.lighting,available,14.99,33.99,high,low,7,name.com,,,
 7b2d3954-70f6-42d9-b24e-1fb5ead9d3c0,auspicious.lighting,available,23.99,23.99,high,low,10,namesilo,,,22/09/2026 13:12
 fa165a6f-8cf5-4439-bc51-29f0e33bdb15,argil.lighting,available,23.99,23.99,medium,low,5,namesilo,,,20/09/2026 04:20
+c79acd0e-69cc-4d4c-b1cd-913bf6bb9e95,apprenticeship.lighting,available,18.83,18.83,high,low,14,spaceship,,,28/09/2026 02:47
+cdb7cf0b-2770-49e1-8837-fcb4fff386b5,johan.lighting,available,18.2,18.2,high,low,5,cloudflare,,,27/09/2026 18:44
 845a1b0e-05a6-40b1-b29d-c9815393832c,pretense.lighting,available,23.99,23.99,high,low,8,namesilo,,,25/09/2026 16:21
 b32d27bc-a1ce-476b-b7b9-77f7872f39bf,wellborn.lighting,available,22.98,31.98,medium,low,8,namecheap,,,13/09/2026 10:42
 13ef142c-1574-4c22-9859-967e0406af39,malian.lighting,available,14.99,33.99,high,low,6,name.com,,,24/08/2026 14:00
@@ -145,10 +151,10 @@ b32d27bc-a1ce-476b-b7b9-77f7872f39bf,wellborn.lighting,available,22.98,31.98,med
 54fc09af-e89f-4f24-bee2-d6cd35a7eac0,mischief.lighting,available,23.99,23.99,high,low,8,namesilo,,,21/09/2026 21:54
 02d99422-73eb-400d-99dc-10af5adf7ea6,magnetised.lighting,available,14.99,33.99,medium,low,10,name.com,,,24/08/2026 13:06
 79b9bd09-655a-474c-9b5b-ce012f616be3,tastily.lighting,available,23.99,23.99,medium,low,7,namesilo,,,16/09/2026 08:03
-250a021e-7605-4ac6-b3c7-25af6861744a,piquant.lighting,available,14.99,33.99,high,low,7,name.com,,,17/08/2026 07:38
+250a021e-7605-4ac6-b3c7-25af6861744a,piquant.lighting,available,14.99,33.99,medium,low,7,name.com,,,17/08/2026 07:38
 aded0345-aa07-4790-a1a7-12c510c7f70d,sorted.lighting,available,14.99,33.99,high,low,6,name.com,,,20/08/2026 20:24
 426404d7-fc4a-42df-b0f8-dd4fde35d23c,boxlike.lighting,available,14.99,33.99,medium,low,7,name.com,,,10/08/2026 23:56
-22e8485c-c959-4336-a774-15db42ce2217,gloved.lighting,available,14.99,33.99,high,low,6,name.com,,,20/08/2026 14:52
+22e8485c-c959-4336-a774-15db42ce2217,gloved.lighting,available,14.99,33.99,medium,low,6,name.com,,,20/08/2026 14:52
 91368805-dc6a-468d-8e12-7683406c8645,lan.lighting,premium,23.6,23.6,high,low,3,namesilo,,,
 2f41da87-63d0-4ef4-9707-db8b520b1618,tomorrows.lighting,available,23.99,23.99,medium,low,9,namesilo,,,21/09/2026 09:58
 2664406d-4de5-4645-a6e7-164e22c17a51,ringtail.lighting,available,23.99,23.99,medium,low,8,namesilo,,,22/09/2026 12:08
@@ -162,11 +168,12 @@ c77bc5ce-4b96-4c3c-8b5a-60df57be3399,hired.lighting,available,14.99,33.99,high,l
 180bb092-24af-4905-8412-7b15cc163c98,appliance.lighting,available,23.99,23.99,high,low,9,namesilo,,,19/09/2026 21:44
 d5373af2-ed92-4e4b-84ac-2e955b4e6d10,diagnosis.lighting,available,22.98,31.98,high,low,9,namecheap,,,24/09/2026 22:08
 4523559d-658c-4c7e-b268-2cdabfce8780,shaper.lighting,available,14.99,,high,low,6,name.com,,,
-b0117848-4e64-45a0-a9c1-2d2083373e81,appetiser.lighting,available,22.98,31.98,high,low,9,namecheap,,,19/09/2026 20:48
+b0117848-4e64-45a0-a9c1-2d2083373e81,appetiser.lighting,available,22.98,31.98,medium,low,9,namecheap,,,19/09/2026 20:48
 840f8725-afbf-48b0-8774-1c137132c539,spaceward.lighting,available,23.99,23.99,medium,low,9,namesilo,,,16/09/2026 05:42
 9aca15b4-5bbb-4787-b20b-ac0d29bba201,seventy.lighting,available,14.99,33.99,high,low,7,name.com,,,
+5adb1c3f-ef43-4e3d-b84d-77c0bcb13712,swanson.lighting,available,18.2,18.2,high,low,7,cloudflare,,,28/09/2026 02:01
 445e6572-c436-4b68-a387-af811ec529a6,crabwise.lighting,available,14.99,33.99,medium,low,8,name.com,,,13/08/2026 04:14
-ddd5abc3-89b7-4c6e-9006-bca89e2720ce,skies.lighting,available,23.99,23.99,high,low,5,namesilo,,,18/09/2026 07:49
+ddd5abc3-89b7-4c6e-9006-bca89e2720ce,skies.lighting,available,23.99,23.99,medium,low,5,namesilo,,,18/09/2026 07:49
 61c9f0c3-159b-4ab1-962b-5db1c61f8959,arianrhod.lighting,available,23.99,23.99,medium,low,9,namesilo,,,20/09/2026 05:14
 8bf9080c-83a7-49e5-818b-675b0642b561,numbing.lighting,available,22.98,31.98,medium,low,7,namecheap,,,03/09/2026 22:49
 73bb7227-c819-4903-b785-518ad7b0899c,baptisia.lighting,available,23.99,23.99,medium,low,8,namesilo,,,22/09/2026 03:24
@@ -183,7 +190,9 @@ c5adef1c-7927-4b82-9c8d-41a2e51d21c1,cry.lighting,premium,23.6,23.6,high,low,3,n
 ad03bc6d-c679-48eb-9df4-3120a4b13198,impressive.lighting,available,14.99,33.99,high,low,10,name.com,,,21/08/2026 23:04
 4123429f-5646-4772-974d-e0719a650d5b,exalt.lighting,available,14.99,33.99,high,low,5,name.com,,,
 a77e1dff-b1f5-491b-b1d3-96dec867fca0,doric.lighting,available,14.99,33.99,high,low,5,name.com,,,14/08/2026 16:13
+10356dba-6cf7-4286-9702-a707c1a1d0de,october.lighting,available,18.2,18.2,high,low,7,cloudflare,,,28/09/2026 02:51
 ec6c8146-1070-4550-b72c-b37a84b4c7f4,disappear.lighting,available,22.98,31.98,high,low,9,namecheap,,,27/09/2026 05:58
+f0de7ec3-299f-45d2-b360-a9b14ef57611,ithaca.lighting,available,23.99,23.99,high,low,6,namesilo,,,27/09/2026 14:23
 0a1c723c-9b32-4cfc-94f7-eba518598530,washing.lighting,available,14.99,,high,low,7,name.com,,,
 3ccfa51a-2c7c-453e-b587-087f19d59e75,abrader.lighting,available,23.99,23.99,medium,low,7,namesilo,,,16/09/2026 16:48
 fea11f17-1afe-4527-97cd-1cb10ac67d3c,beaker.lighting,available,23.99,23.99,high,low,6,namesilo,,,22/09/2026 19:45
@@ -213,7 +222,7 @@ af18f68d-93b1-4be0-b91a-254796db3452,flavourful.lighting,available,14.99,33.99,m
 50ae6a58-a0ce-4c27-ba31-d1287fb4866a,chuckle.lighting,available,23.99,23.99,high,low,7,namesilo,,,24/09/2026 14:48
 96b3b879-3e4d-4e4d-8909-76a7ef8bf03a,montpelier.lighting,available,22.98,31.98,medium,low,10,namecheap,,,24/09/2026 12:33
 b7580369-6795-4fef-a39e-7c5a065d2123,blithe.lighting,available,14.99,33.99,high,low,6,name.com,,,10/08/2026 14:37
-7c842c9d-0366-4bb5-98aa-882cc855c3ca,speculation.lighting,available,14.99,,high,low,11,name.com,,,
+7c842c9d-0366-4bb5-98aa-882cc855c3ca,speculation.lighting,available,14.99,,medium,low,11,name.com,,,
 7587ee5d-935a-400c-a00a-80b94a44123d,asteraceae.lighting,available,23.99,23.99,medium,low,10,namesilo,,,20/09/2026 17:03
 3b227913-138f-40b7-9df9-1cd2d9ee9c3c,forehand.lighting,available,14.99,33.99,medium,low,8,name.com,,,18/08/2026 11:38
 ac98b486-3040-46c9-bfa8-104cd1aca04a,dumped.lighting,available,23.99,23.99,low,low,6,namesilo,,,27/09/2026 03:17
@@ -224,7 +233,8 @@ e0b3f941-764f-4420-a21d-bbfc7638a41f,unopened.lighting,available,22.98,31.98,med
 d65fe176-17e1-4c45-a9de-d7692dbf2184,disordered.lighting,available,14.99,33.99,medium,low,10,name.com,,,14/08/2026 11:18
 e7bbafc5-68b7-4e76-ae66-949582c4948a,underestimated.lighting,available,14.99,,medium,low,14,name.com,,,
 9214461f-cc61-4372-b3dc-194633c86484,thievery.lighting,available,22.98,31.98,medium,low,8,namecheap,,,11/09/2026 13:20
-a3354913-b2a1-468c-9487-8fd00944a4c4,contact.lighting,available,14.99,,high,medium,7,name.com,,,
+a3354913-b2a1-468c-9487-8fd00944a4c4,contact.lighting,available,23.99,23.99,high,medium,7,namesilo,,,28/09/2026 01:41
+c8733bef-a1f7-487e-a14a-dca8794d5d30,nih.lighting,available,18.83,18.83,high,low,3,spaceship,,,28/09/2026 02:28
 84a11ea8-e4d8-4174-ba30-64b9ecc6f0f8,bravo.lighting,available,,,high,medium,5,,,,
 a0bf2fad-40cc-46d3-9f9c-c369447b327a,apiculture.lighting,available,22.98,31.98,medium,low,10,namecheap,,,19/09/2026 15:54
 ebdb3ee1-f2de-41e0-92f7-a341a156c66c,cameroon.lighting,available,,,high,high,8,,,,
@@ -234,10 +244,11 @@ c7bbfe2d-c251-400a-9826-59cdeff7c9da,forepart.lighting,available,14.99,33.99,med
 769dc9ab-2504-46d3-bb55-23a592da1f52,stainless.lighting,available,22.98,31.98,high,low,9,namecheap,,,10/09/2026 18:15
 c74cc170-07f3-4c7f-8e50-22a6f875965e,eparchial.lighting,available,14.99,33.99,low,low,9,name.com,,,17/08/2026 10:12
 ff277b76-376e-4427-872f-13c03955fc9b,gemmed.lighting,available,14.99,33.99,high,low,6,name.com,,,18/08/2026 21:08
+f0344eb7-f2ec-485c-ab3b-8db5f775cf99,harassment.lighting,available,18.83,18.83,medium,low,10,spaceship,,,27/09/2026 13:56
 007ac696-428a-49d4-939e-1e086983f36a,hesperian.lighting,available,14.99,33.99,medium,low,9,name.com,,,21/08/2026 07:27
 473b57eb-19e4-4cb9-ac31-7cf6a3ce3be8,unbordered.lighting,available,22.98,31.98,medium,low,10,namecheap,,,12/09/2026 02:21
 59a971e0-7ba3-4015-8312-3239c894e155,located.lighting,available,23.99,23.99,high,low,7,namesilo,,,25/09/2026 14:10
-fd877aa9-9a36-4c0a-bef3-1cb202b2239d,contested.lighting,available,23.99,23.99,high,low,9,namesilo,,,23/09/2026 22:01
+fd877aa9-9a36-4c0a-bef3-1cb202b2239d,contested.lighting,available,23.99,23.99,medium,low,9,namesilo,,,23/09/2026 22:01
 1ec104c7-c8ed-4dbe-b3f3-0796732a7600,gain.lighting,available,23.99,23.99,high,low,4,namesilo,,,23/09/2026 07:57
 a24ee91a-cde3-4078-8e0f-abf4d071cdd1,prince.lighting,available,14.99,,high,low,6,name.com,,,
 7fd281ed-c3b1-4b80-81c5-75a9ed9d2ef1,pardon.lighting,available,14.99,,high,low,6,name.com,,,
@@ -275,7 +286,7 @@ c58b6a0c-ad3b-4a92-86cb-1a6868143129,apartment.lighting,available,23.99,23.99,hi
 d761a8b9-58a8-4975-872d-ddd9a1e8c577,unfenced.lighting,available,22.98,31.98,medium,low,8,namecheap,,,12/09/2026 10:10
 56aa3d8a-cd84-4ad6-be0c-1f7e553ecf98,vulgar.lighting,available,14.99,33.99,high,low,6,name.com,,,14/08/2026 22:44
 06d89917-1736-4cff-93ed-38f8e37add14,lamely.lighting,available,22.98,31.98,low,low,6,namecheap,,,15/09/2026 10:37
-02efba37-79a0-49e6-a0e5-3b83b7c6ad12,earthbound.lighting,available,14.99,33.99,high,low,10,name.com,,,14/08/2026 22:37
+02efba37-79a0-49e6-a0e5-3b83b7c6ad12,earthbound.lighting,available,14.99,33.99,medium,low,10,name.com,,,14/08/2026 22:37
 ff110867-68b1-4ce7-835e-4ab1ab5180a8,reference.lighting,available,14.99,,high,low,9,name.com,,,
 8d49a73c-42b0-4bf4-a1a3-2d9ade4a6ad4,boston.lighting,available,14.99,,high,low,6,name.com,,,
 8ffdbfbf-3111-4472-9a8b-2bc6cfd9d948,unlettered.lighting,available,14.99,33.99,medium,low,10,name.com,,,21/08/2026 18:33
@@ -284,7 +295,7 @@ a7ce49a3-32ba-4894-8eaa-863146d22c89,lxxxv.lighting,available,14.99,33.99,medium
 243ea2a5-446b-4c2c-8ba5-60525c0fffba,amazement.lighting,available,23.99,23.99,high,low,9,namesilo,,,18/09/2026 16:18
 68b0f9c6-daa6-49cc-aa6e-0cfe5cc1ebad,clouded.lighting,available,14.99,33.99,medium,low,7,name.com,,,12/08/2026 12:27
 5a6d5fe9-4434-4b3b-a642-a05894bdb739,berm.lighting,available,23.99,23.99,medium,low,4,namesilo,,,23/09/2026 09:41
-dab43b66-055c-4348-aeb8-1a489549e8d6,strict.lighting,available,14.99,33.99,high,low,6,name.com,,,21/08/2026 00:17
+dab43b66-055c-4348-aeb8-1a489549e8d6,strict.lighting,available,14.99,33.99,medium,low,6,name.com,,,21/08/2026 00:17
 97df8c3c-b5e7-435b-92e9-496b08c269df,ictic.lighting,available,14.99,33.99,low,low,5,name.com,,,21/08/2026 17:53
 16ea9a3e-c41f-40db-ad0e-fe15cb51e65d,mistakenly.lighting,available,22.98,31.98,medium,low,10,namecheap,,,14/09/2026 16:00
 13b84773-0291-4aee-8fba-316279ca1652,beans.lighting,available,14.99,,high,low,5,name.com,,,
@@ -308,7 +319,7 @@ fd26594a-5384-492d-8454-488817e8f961,arbitrary.lighting,available,14.99,33.99,hi
 602de856-141b-490b-9af3-29988bbd555c,annex.lighting,available,14.99,,high,low,5,name.com,,,
 031eeda1-3e11-4c07-9625-0d1163348de0,double.lighting,available,23.99,23.99,high,low,6,namesilo,,,24/09/2026 11:46
 46000f91-9f64-4845-8074-811bd381d9ea,item.lighting,available,14.99,,high,low,4,name.com,,,
-c3171fc2-1cb0-4eba-87cf-ffe510a9099e,czechoslovak.lighting,available,23.99,23.99,high,low,12,namesilo,,,26/09/2026 03:18
+c3171fc2-1cb0-4eba-87cf-ffe510a9099e,czechoslovak.lighting,available,23.99,23.99,medium,low,12,namesilo,,,26/09/2026 03:18
 dd874c99-f57f-4bdf-99a3-ab3f651227fd,slippered.lighting,available,22.98,31.98,medium,low,9,namecheap,,,10/09/2026 10:59
 dae1c569-67b8-4775-a15a-2caea41a645c,rustling.lighting,available,22.98,31.98,high,low,8,namecheap,,,03/09/2026 11:20
 41e77284-7d8a-4c88-b58d-6ebd62ebc7e9,intriguing.lighting,available,23.99,23.99,high,low,10,namesilo,,,25/09/2026 10:52
@@ -327,22 +338,23 @@ b4cb567b-595b-410c-b073-a872914e9c91,cleaners.lighting,available,23.99,23.99,hig
 442ce2c9-b7ca-4678-a2da-872abb77bdc2,announcer.lighting,available,23.99,23.99,high,low,9,namesilo,,,19/09/2026 10:49
 d6ca0616-cf8f-4795-8a9f-d6cf814d5f97,malignant.lighting,available,14.99,33.99,medium,low,9,name.com,,,24/08/2026 14:08
 a882f5f1-00fb-46ae-af3b-85b36e19b75c,scold.lighting,available,22.98,31.98,high,low,5,namecheap,,,24/09/2026 16:34
-f3caac46-c94b-41ff-946a-2cb9d3c76603,aileron.lighting,available,22.98,31.98,high,low,7,namecheap,,,17/09/2026 21:10
+f3caac46-c94b-41ff-946a-2cb9d3c76603,aileron.lighting,available,22.98,31.98,medium,low,7,namecheap,,,17/09/2026 21:10
 5172db26-2859-4675-a7c8-22bf5db4d38a,aggregate.lighting,available,14.99,33.99,high,low,9,name.com,,,
 bd5c7463-eaf2-4ad0-98d8-3503e6c2fc64,clot.lighting,available,14.99,33.99,medium,low,4,name.com,,,12/08/2026 13:36
 e1734c99-c403-42b8-891d-f2f38d2c0c2b,governance.lighting,available,14.99,33.99,high,low,10,name.com,,,20/08/2026 17:22
 d0300de8-a183-4163-97fd-44d4a35c91dc,premium.lighting,resell,,,high,medium,7,"GoDaddy.com, LLC",12/01/2016 15:38,12/01/2027 15:38,27/09/2026 05:00
-a6271524-fbc2-43ba-bb11-8b41b9b5ae86,arroyo.lighting,available,23.99,23.99,high,low,6,namesilo,,,20/09/2026 09:33
+a6271524-fbc2-43ba-bb11-8b41b9b5ae86,arroyo.lighting,available,23.99,23.99,medium,low,6,namesilo,,,20/09/2026 09:33
 42703032-ef6f-4f5c-9899-219562b25396,obscenely.lighting,available,22.98,31.98,medium,low,9,namecheap,,,15/09/2026 11:14
 53b4f7ac-8547-4536-bef9-ade71d6496ee,neighbourhood.lighting,available,23.99,23.99,high,low,13,namesilo,,,17/09/2026 15:31
 f2becc46-01c4-4349-b7c8-0f6e67f1c860,catapultic.lighting,available,14.99,33.99,medium,low,10,name.com,,,11/08/2026 21:06
 ceb8a90f-94be-4cfe-abc8-60ec5bcb43e4,frankie.lighting,available,23.99,23.99,high,low,7,namesilo,,,26/09/2026 03:25
 45055aa0-7217-4f8b-8f67-16c1e437c82d,acerbic.lighting,available,14.99,33.99,medium,low,7,name.com,,,
+2fa4f730-3029-404e-bca2-72545133aedb,evansville.lighting,available,35.99,35.99,medium,low,10,godaddy,,,28/09/2026 01:52
 aed7abf6-d97f-4492-9deb-baf1485bdc25,beanball.lighting,available,22.98,31.98,medium,low,8,namecheap,,,22/09/2026 20:24
 6ce986b8-329d-42b2-88b9-13ca7a949bcb,turndown.lighting,available,14.99,,high,low,9,name.com,,,
 4335749c-bdf8-412d-a7a2-a23ef9f415ad,sported.lighting,available,23.99,23.99,medium,low,7,namesilo,,,20/09/2026 16:50
 c6661b51-02f4-4e25-87ff-f69331b4462f,typing.lighting,available,14.99,,high,low,6,name.com,,,
-11440a3b-43c8-4b02-9e19-32bf04aad370,stormy.lighting,available,14.99,,medium,low,6,name.com,,,
+11440a3b-43c8-4b02-9e19-32bf04aad370,stormy.lighting,available,23.99,23.99,medium,low,6,namesilo,,,28/09/2026 01:11
 6cd5705c-b81f-4d57-ba91-9438486c2f9a,paradoxes.lighting,available,22.98,31.98,medium,low,9,namecheap,,,21/09/2026 00:45
 0b9c77c5-8b07-4d55-a058-1923ec554228,biaxal.lighting,available,14.99,33.99,medium,low,6,name.com,,,09/08/2026 18:46
 b538e982-7d7d-4df5-8ec6-2933d1ccb26c,ionic.lighting,available,14.99,33.99,high,low,5,name.com,,,22/08/2026 09:29
@@ -357,8 +369,9 @@ fe7ffb10-be2b-469f-8628-36695e32fda3,fanta.lighting,available,14.99,,high,low,5,
 9ec42e31-10d0-4465-b8af-c003bedd2f98,osmotic.lighting,available,14.99,33.99,medium,low,7,name.com,,,04/09/2026 18:15
 73649d43-95cd-4292-85f6-3a34bcd9f3fb,caper.lighting,available,23.99,23.99,high,low,5,namesilo,,,22/09/2026 06:32
 0323ffc6-e7e8-4db8-b0e1-62c98f289f65,lastly.lighting,available,14.99,,medium,low,6,name.com,,,
+705b7937-103d-49af-92fc-57280efb242a,seward.lighting,available,23.99,23.99,high,low,6,namesilo,,,28/09/2026 03:05
 5d733d61-754f-4e84-a4ed-83549732f066,detestable.lighting,available,14.99,33.99,medium,low,10,name.com,,,
-e9917382-7470-4ab3-952e-7293a43de65f,beholding.lighting,available,22.98,31.98,high,low,9,namecheap,,,10/09/2026 01:47
+e9917382-7470-4ab3-952e-7293a43de65f,beholding.lighting,available,22.98,31.98,medium,low,9,namecheap,,,10/09/2026 01:47
 92d64cc5-2ffa-400b-a8c2-d16db39c3b9b,hedge.lighting,available,14.99,,high,low,5,name.com,,,
 025d5781-d088-4568-96c4-edc2dfadca2f,agrimony.lighting,available,22.98,31.98,medium,low,8,namecheap,,,17/09/2026 19:30
 6ff01497-f6fe-4c95-8868-a074520cdfec,heroically.lighting,available,22.98,31.98,high,low,10,namecheap,,,15/09/2026 00:39
@@ -401,18 +414,18 @@ f0e35c77-47cb-425d-a37c-7cc383ccc20a,ike.lighting,available,14.99,,high,low,3,na
 43b11253-c2c1-4994-9450-49803a7673ca,sounded.lighting,available,14.99,,medium,low,7,name.com,,,
 367fb8f7-3ee6-4211-8103-b8b3062c7037,accented.lighting,available,14.99,33.99,medium,low,8,name.com,,,
 518b4283-c6f9-4602-8f2f-01ffdeade0e8,exponent.lighting,available,22.98,31.98,high,low,8,namecheap,,,17/09/2026 11:51
-6bc606dd-f063-4e3a-85b0-cd4b7c65cc1e,antioch.lighting,available,23.99,23.99,high,low,7,namesilo,,,19/09/2026 12:29
+6bc606dd-f063-4e3a-85b0-cd4b7c65cc1e,antioch.lighting,available,23.99,23.99,medium,low,7,namesilo,,,19/09/2026 12:29
 2ce077f8-cc6f-4503-87de-d8da705d2221,calming.lighting,available,22.98,31.98,high,low,7,namecheap,,,19/09/2026 20:28
-2af8cbc1-eae7-4734-9346-38a615156518,robbery.lighting,available,23.99,23.99,high,low,7,namesilo,,,25/09/2026 09:07
+2af8cbc1-eae7-4734-9346-38a615156518,robbery.lighting,available,23.99,23.99,medium,low,7,namesilo,,,25/09/2026 09:07
 ae7cb85d-9a3a-47bd-b760-ed8508d7e2c3,accretion.lighting,available,23.99,23.99,high,low,9,namesilo,,,16/09/2026 23:14
 1b1f7b93-ee0e-4c41-9dcd-80e5a529857e,hail.lighting,available,23.99,23.99,high,low,4,namesilo,,,16/09/2026 22:38
 4d3027ff-f2e7-4167-a29c-4603cccdce85,stops.lighting,available,14.99,,high,low,5,name.com,,,
-a618d0ca-767e-426d-8ec3-81600ce9a481,entrant.lighting,available,14.99,33.99,high,low,7,name.com,,,18/08/2026 07:36
+a618d0ca-767e-426d-8ec3-81600ce9a481,entrant.lighting,available,14.99,33.99,medium,low,7,name.com,,,18/08/2026 07:36
 fdab8a9a-6f6a-47c9-88db-289a71788844,bust.lighting,available,23.99,23.99,high,low,4,namesilo,,,23/09/2026 09:51
 22861570-4965-46c1-b7ab-a3e32eb74f30,activism.lighting,available,23.99,23.99,high,low,8,namesilo,,,17/09/2026 05:15
 a069ad1c-c29d-4276-b564-7e8eea38ed85,biotitic.lighting,available,14.99,33.99,medium,low,8,name.com,,,10/08/2026 03:33
 e1969cbe-d44b-44f0-8000-e8ce4627a91d,compile.lighting,available,22.98,31.98,high,low,7,namecheap,,,08/09/2026 09:16
-b9ba104b-a43f-4305-9858-6a6a6b3665d7,actinic.lighting,available,14.99,33.99,high,low,7,name.com,,,
+b9ba104b-a43f-4305-9858-6a6a6b3665d7,actinic.lighting,available,14.99,33.99,medium,low,7,name.com,,,
 6da854ca-7e3c-4322-9d57-ed306af777e0,decade.lighting,available,23.99,23.99,high,low,6,namesilo,,,21/09/2026 10:56
 865b7dc6-fdd9-4bd2-bcdd-a5ec52224f09,culture.lighting,available,23.99,23.99,high,medium,7,namesilo,,,27/09/2026 02:07
 f384ad70-aeba-4eaa-83ea-70150689561c,russet.lighting,available,22.98,31.98,high,low,6,namecheap,,,09/09/2026 20:06
@@ -426,17 +439,20 @@ b3cf04b2-330b-4762-897d-3a3d67afdc83,syncretic.lighting,available,22.98,31.98,me
 b1ede8f2-ae94-402a-a329-26bf61de87d7,poriferous.lighting,available,22.98,31.98,medium,low,10,namecheap,,,08/09/2026 23:59
 04f87aad-b82a-4ed2-8c69-d148a958445b,tripartite.lighting,available,22.98,31.98,medium,low,10,namecheap,,,11/09/2026 14:23
 6432a53a-4968-482d-b67c-7bdf42d0b963,flushed.lighting,available,14.99,33.99,high,low,7,name.com,,,18/08/2026 09:26
+63a4bb14-cbe7-4f61-83ac-51256d5015fc,israelites.lighting,available,8.24,19.48,high,low,10,dynadot,,,27/09/2026 13:59
 2a6b7f1a-f693-4f2c-bd45-df2a9ca393d4,ductless.lighting,available,14.99,33.99,medium,low,8,name.com,,,14/08/2026 20:54
 c7422669-6203-4a63-bcd9-fbcb320e1067,whence.lighting,available,22.98,31.98,medium,low,6,namecheap,,,16/09/2026 11:28
-68c026de-adb8-428a-9af7-cf093a99a9cc,likes.lighting,available,14.99,,high,low,5,name.com,,,
+68c026de-adb8-428a-9af7-cf093a99a9cc,likes.lighting,available,14.99,,medium,low,5,name.com,,,
 05036cd8-1696-4dce-81de-d6b75b0e30f4,moslem.lighting,available,14.99,33.99,high,low,6,name.com,,,22/08/2026 10:47
 b023f52d-187a-429e-bbcf-cdd0c7f9b1fd,debonnaire.lighting,available,14.99,33.99,high,low,10,name.com,,,13/08/2026 20:46
 88ae5f38-f8f5-49fc-8737-5bc6689f7667,allegiant.lighting,available,14.99,33.99,high,low,9,name.com,,,
 4f11a23a-28e0-48f3-b06b-3a4f4210d195,shock.lighting,available,14.99,,high,low,5,name.com,,,
 a36f084b-80be-4cf9-99cc-1cc0e560844c,bagging.lighting,available,22.98,31.98,medium,low,7,namecheap,,,21/09/2026 18:06
-06d95b33-e0c2-4344-8625-f2b556e5c03c,humbled.lighting,available,14.99,33.99,high,low,7,name.com,,,21/08/2026 15:00
+70e20e36-ec47-429b-8d84-0c493821a387,ecosystem.lighting,available,22.98,31.98,high,low,9,namecheap,,,28/09/2026 02:43
+06d95b33-e0c2-4344-8625-f2b556e5c03c,humbled.lighting,available,14.99,33.99,medium,low,7,name.com,,,21/08/2026 15:00
 557fd3bd-7a73-4d39-b3a6-8bf28f35316a,tellingly.lighting,available,23.99,23.99,medium,low,9,namesilo,,,16/09/2026 08:14
 fec4fcfc-adb5-420c-9c57-ca8b809a50c0,glistening.lighting,available,14.99,33.99,high,low,10,name.com,,,20/08/2026 14:30
+7ac75cd0-ec29-4559-a8ff-3c4d6908e6ce,macleod.lighting,available,18.83,18.83,medium,low,7,spaceship,,,28/09/2026 02:12
 8172d028-a6c6-44b0-b476-19d5f0ff75ac,raiser.lighting,available,14.99,33.99,medium,low,6,name.com,,,17/09/2026 19:22
 3b2fccb5-6e17-4d83-9e33-06df1534bef3,baic.lighting,available,22.98,31.98,medium,low,4,namecheap,,,21/09/2026 18:51
 e2fabb63-ceb6-4796-8726-f03746ae9bbe,ethiopian.lighting,available,14.99,33.99,high,low,9,name.com,,,17/08/2026 13:47
@@ -452,6 +468,7 @@ adee5d31-5ccc-4a53-a611-1f1e565b4b83,vulnerable.lighting,available,22.98,31.98,h
 a10cc5c5-6176-488f-89f3-98887a2c1c5f,manual.lighting,available,23.99,23.99,high,low,6,namesilo,,,25/09/2026 16:42
 5532117f-e6e9-47ae-8454-26d5222b0a4e,warfare.lighting,available,14.99,,high,low,7,name.com,,,
 d478c33d-75a0-4839-8e5c-0618dd10bf74,unwashed.lighting,available,22.98,31.98,medium,low,8,namecheap,,,08/09/2026 21:02
+94b9a723-d45e-419a-9045-993827c69046,lieutenant.lighting,available,35.99,35.99,high,low,10,godaddy,,,28/09/2026 02:16
 59714bcb-e540-4e61-b5bd-86b6d31b1736,perplexing.lighting,available,22.98,31.98,medium,low,10,namecheap,,,08/09/2026 17:58
 86a9c31e-33a7-4782-817e-f3793d33c19c,pallor.lighting,available,23.99,23.99,medium,low,6,namesilo,,,17/09/2026 01:07
 87e559ff-bef8-47eb-a843-6ae5825a3217,gallon.lighting,available,14.99,,high,low,6,name.com,,,
@@ -463,7 +480,7 @@ b023d061-bee9-4af8-a6a7-0f65845bfb94,currently.lighting,available,14.99,,high,lo
 68156021-9c41-4b44-a972-6d662398ffb0,occurred.lighting,available,23.99,23.99,medium,low,8,namesilo,,,18/09/2026 13:50
 35c5ca3c-aa17-4596-b27c-d04d35b78e90,thousands.lighting,available,23.99,23.99,medium,low,9,namesilo,,,18/09/2026 15:22
 67414f54-1b05-4a45-82f0-638a26258be3,tarragon.lighting,available,23.99,23.99,high,low,8,namesilo,,,20/09/2026 10:17
-3c5c7baa-3ba0-43cd-b37f-14b0e0213a29,obliterate.lighting,available,14.99,33.99,high,low,10,name.com,,,10/08/2026 15:34
+3c5c7baa-3ba0-43cd-b37f-14b0e0213a29,obliterate.lighting,available,14.99,33.99,medium,low,10,name.com,,,10/08/2026 15:34
 6a2187ea-59a6-4c9c-93fd-e5fce9e22c42,pose.lighting,available,14.99,33.99,high,low,4,name.com,,,22/08/2026 21:29
 1c8600ce-dda1-4e4b-bc2a-d13919c673d0,concurrent.lighting,available,14.99,33.99,high,low,10,name.com,,,12/08/2026 13:22
 bdd260a0-f7bc-41ae-94c6-a3458d29a59d,amnionic.lighting,available,14.99,33.99,medium,low,8,name.com,,,
@@ -474,12 +491,13 @@ f1f01012-d02d-4c34-b6ad-ce5d760d3a4f,partitioned.lighting,available,23.99,23.99,
 f4cd64aa-5ab1-4d6d-806a-70d62773d459,carthage.lighting,available,22.98,31.98,medium,low,8,namecheap,,,25/09/2026 04:02
 e524af92-83e7-4c9b-aad9-5aa560c108ca,delusive.lighting,available,14.99,33.99,medium,low,8,name.com,,,14/08/2026 00:53
 cfc05825-0c91-4b84-aee7-c7af30a08b67,uttered.lighting,available,14.99,33.99,medium,low,7,name.com,,,17/08/2026 18:44
+d7834951-16ce-4d10-b47f-7a4d09f5b4b7,occasionally.lighting,available,23.99,23.99,medium,low,12,namesilo,,,27/09/2026 17:20
 a3fe7629-c369-4000-894b-c734ec3893ec,ships.lighting,available,23.99,23.99,medium,low,5,namesilo,,,18/09/2026 14:07
 f1109ccf-a0ed-4c61-982e-6716b9a48024,folly.lighting,available,23.99,23.99,high,low,5,namesilo,,,23/09/2026 11:19
 7b28ba66-677a-4a40-a90e-5c1a45ed91aa,bronx.lighting,available,22.98,31.98,high,low,5,namecheap,,,24/09/2026 10:43
 702bda5e-2501-4432-bdab-0c6588c9fc74,starkers.lighting,available,22.98,31.98,low,low,8,namecheap,,,10/09/2026 18:51
 0d8f6cd2-86d8-4ed3-8bf0-3904c90273be,trenchant.lighting,available,14.99,33.99,medium,low,9,name.com,,,12/08/2026 10:33
-179caaea-7b67-4a93-bc83-591453e19dc4,jugoslav.lighting,available,22.98,31.98,high,low,8,namecheap,,,13/09/2026 14:52
+179caaea-7b67-4a93-bc83-591453e19dc4,jugoslav.lighting,available,22.98,31.98,medium,low,8,namecheap,,,13/09/2026 14:52
 7ac2d2f3-d19b-4ab9-ace1-eee3a8507388,chargeable.lighting,available,14.99,33.99,medium,low,10,name.com,,,12/08/2026 02:27
 48f3d5db-0318-4725-a85e-c41176ca558c,bilocation.lighting,available,22.98,31.98,medium,low,10,namecheap,,,23/09/2026 16:51
 a1802a01-266a-46c7-a2cd-eb6925fc20b5,defamer.lighting,available,23.99,23.99,medium,low,7,namesilo,,,21/09/2026 15:02
@@ -491,10 +509,10 @@ d7bd0ecd-5b71-4494-a1e7-8ec298fe4ed2,hassan.lighting,available,22.98,31.98,high,
 340b7de9-82e0-4e26-9483-6fe70775ba08,stein.lighting,available,23.99,23.99,high,low,5,namesilo,,,23/09/2026 01:47
 6b8e1913-b5be-4b11-907c-c6e5261e5fbf,splurge.lighting,available,23.99,23.99,high,low,7,namesilo,,,23/09/2026 17:20
 5494fcdc-dfb1-408b-818e-86f6f81b9b52,prostate.lighting,available,22.98,31.98,high,low,8,namecheap,,,09/09/2026 03:47
-7367cd5d-1868-4f6e-8f95-bfed65e1bc7d,fungicide.lighting,available,14.99,33.99,high,low,9,name.com,,,
+7367cd5d-1868-4f6e-8f95-bfed65e1bc7d,fungicide.lighting,available,14.99,33.99,medium,low,9,name.com,,,
 d3e75742-d1bf-475d-ac28-241d4d56169e,soonest.lighting,available,14.99,33.99,medium,low,7,name.com,,,14/08/2026 22:25
 79691af3-35c9-4e5a-b5da-04e479b693b5,roguish.lighting,available,14.99,33.99,medium,low,7,name.com,,,10/08/2026 11:58
-74e71556-ca34-4fd8-8573-d7304332e77d,rasp.lighting,available,23.99,23.99,high,low,4,namesilo,,,19/09/2026 15:15
+74e71556-ca34-4fd8-8573-d7304332e77d,rasp.lighting,available,23.99,23.99,medium,low,4,namesilo,,,19/09/2026 15:15
 f1efc9d1-53d8-490c-8f4d-4c0e1f6f8244,epidermic.lighting,available,14.99,33.99,medium,low,9,name.com,,,13/08/2026 13:09
 6f120d01-d05b-489f-90fe-276fbd09310f,observe.lighting,available,23.99,23.99,high,low,7,namesilo,,,25/09/2026 23:53
 46f021ce-9f1d-4dc1-a306-791e5c7c3c1b,boyfriend.lighting,available,23.99,23.99,high,low,9,namesilo,,,22/09/2026 21:55
@@ -505,13 +523,14 @@ f1efc9d1-53d8-490c-8f4d-4c0e1f6f8244,epidermic.lighting,available,14.99,33.99,me
 de35f441-96f5-4a94-a3e5-d71d8f10fa79,juridical.lighting,available,14.99,33.99,medium,low,9,name.com,,,22/08/2026 14:40
 1b8e11a6-d78b-4f11-8e1a-fb2274ab0339,australia.lighting,available,,,high,high,9,,,,
 35e9b191-46f4-4e19-8f3f-7d4857aa4ab5,atole.lighting,available,23.99,23.99,medium,low,5,namesilo,,,20/09/2026 21:52
-057bc710-2879-4cdc-87d6-cc41d86f1a84,solo.lighting,available,,,high,medium,4,,,,
 5bb97630-2fd9-4652-be01-10e3667b98a3,glorified.lighting,available,14.99,33.99,high,low,9,name.com,,,11/08/2026 17:29
 9c9f516e-2fdf-488c-ab77-4e0993d0107c,earth.lighting,available,14.99,,high,medium,5,name.com,,,
 3acd819d-e585-4eff-a335-7da608f8c210,scholarly.lighting,available,14.99,33.99,high,low,9,name.com,,,09/09/2026 23:11
 87800d5f-ac21-4c22-8213-ccb6b3b1e9b5,shady.lighting,available,14.99,33.99,high,low,5,name.com,,,18/08/2026 09:37
 4eba7657-63ed-4253-a388-84deee007e47,illustrated.lighting,available,14.99,,high,low,11,name.com,,,
-c8f1a4b2-aefd-4111-b10e-348c4c1d9fd3,costless.lighting,available,14.99,33.99,high,low,8,name.com,,,13/08/2026 03:12
+064ab529-3b7d-4809-b799-7d7f8447115f,carlyle.lighting,available,23.99,23.99,medium,low,7,namesilo,,,28/09/2026 02:01
+9140decf-2672-43d5-96bc-ffabeb441347,nasdaq.lighting,available,22.98,31.98,high,low,6,namecheap,,,28/09/2026 02:27
+c8f1a4b2-aefd-4111-b10e-348c4c1d9fd3,costless.lighting,available,14.99,33.99,medium,low,8,name.com,,,13/08/2026 03:12
 c81026d7-d7bb-4c33-8e38-03eb77eadeaa,abashed.lighting,available,14.99,33.99,medium,low,7,name.com,,,
 5357fe3f-1a1a-498d-a4d4-884c49a52842,menstrual.lighting,available,14.99,33.99,high,low,9,name.com,,,11/08/2026 20:59
 42feeccc-e42c-445d-ade8-4a9f78ec1f69,conceptive.lighting,available,14.99,33.99,medium,low,10,name.com,,,12/08/2026 20:03
@@ -519,18 +538,18 @@ c81026d7-d7bb-4c33-8e38-03eb77eadeaa,abashed.lighting,available,14.99,33.99,medi
 04f89eb7-fdf0-4138-8e44-1083f87e2ccc,bomb.lighting,available,14.99,,high,low,4,name.com,,,
 89dbff79-f4b0-4642-bff0-4e416586825a,christie.lighting,available,23.99,23.99,high,low,8,namesilo,,,17/09/2026 16:30
 beacfb6a-5660-4f1c-aa7d-b967b4404ca2,anosmic.lighting,available,14.99,33.99,medium,low,7,name.com,,,
-b57e05df-0d73-465a-b158-ad1b4faacb9c,montane.lighting,available,14.99,33.99,high,low,7,name.com,,,25/08/2026 05:41
+b57e05df-0d73-465a-b158-ad1b4faacb9c,montane.lighting,available,14.99,33.99,medium,low,7,name.com,,,25/08/2026 05:41
 b7a97108-8371-4561-935d-518b974e7835,mandarin.lighting,available,23.99,23.99,high,low,8,namesilo,,,23/09/2026 04:17
 be54e390-188d-4741-ba46-dd17533f9cdd,quietly.lighting,available,22.98,31.98,high,low,7,namecheap,,,09/09/2026 08:49
 ac6589fa-399a-48ee-9e88-13ca11092954,hercules.lighting,available,14.99,,high,low,8,name.com,,,
 23692d5b-9eb2-4e61-9934-52d67a083e80,mirrored.lighting,available,14.99,33.99,high,low,8,name.com,,,25/08/2026 01:11
-59bee26e-7ce8-4db9-8588-217f81f907f8,gao.lighting,available,23.99,23.99,high,low,3,namesilo,,,25/09/2026 06:16
+59bee26e-7ce8-4db9-8588-217f81f907f8,gao.lighting,available,23.99,23.99,medium,low,3,namesilo,,,25/09/2026 06:16
 5fb3e1c1-c48a-45be-b5cc-2fed6b065831,hartley.lighting,available,23.99,23.99,high,low,7,namesilo,,,25/09/2026 04:45
 8d090a1e-ae96-4884-8a8a-d0b9db423cf7,cruise.lighting,available,22.98,31.98,high,low,6,namecheap,,,24/09/2026 19:51
 9a0311d5-056b-4285-853e-f83b911460ea,oneself.lighting,available,14.99,,high,low,7,name.com,,,
 54c918e3-9d86-4c82-9c83-ec78b486ebbf,hampton.lighting,premium,23.6,23.6,high,low,7,namesilo,,,25/09/2026 06:48
 e3430116-c5c1-46b2-baf9-200d8d956e5a,arrester.lighting,available,23.99,23.99,medium,low,8,namesilo,,,20/09/2026 09:09
-ab530042-ce1d-402f-b90f-6b2550e388d2,attained.lighting,available,14.99,33.99,high,low,8,name.com,,,07/08/2026 15:07
+ab530042-ce1d-402f-b90f-6b2550e388d2,attained.lighting,available,14.99,33.99,medium,low,8,name.com,,,07/08/2026 15:07
 f25d02e1-0511-433d-ae84-d3df7e795e6a,focusing.lighting,available,22.98,31.98,high,low,8,namecheap,,,24/09/2026 13:33
 1775ffed-b64a-43e8-a9c8-fa0ea719c642,affidavit.lighting,available,14.99,,high,low,9,name.com,,,
 a17653d9-ba20-4d30-af46-2c5765c7adf6,reach.lighting,available,23.99,23.99,high,medium,5,namesilo,,,18/09/2026 16:46
@@ -538,13 +557,14 @@ a17653d9-ba20-4d30-af46-2c5765c7adf6,reach.lighting,available,23.99,23.99,high,m
 75661a52-0ecd-44d5-aa6e-44e9e0be68e6,lightsome.lighting,available,14.99,33.99,high,low,9,name.com,,,10/08/2026 14:41
 ca401a5c-aac1-4ebf-91b1-20cd02c07df6,anura.lighting,available,23.99,23.99,medium,low,5,namesilo,,,19/09/2026 15:53
 de07cf75-2b52-4aab-adb9-1348d33333b9,unoccupied.lighting,available,22.98,31.98,medium,low,10,namecheap,,,12/09/2026 16:09
+3acaec64-2473-4d3f-b8f0-3238a62d60b1,yogurt.lighting,available,18.2,18.2,high,low,6,cloudflare,,,28/09/2026 02:43
 104c7b4d-3df3-40e0-83bf-02718219312a,modelling.lighting,available,14.99,,high,low,9,name.com,,,
 73259b92-a443-4a6a-8516-7408d9847fbf,istanbul.lighting,premium,26,26,high,low,8,namecheap,,,24/09/2026 17:33
 e163ce69-760e-4e9e-b1bc-3f6e4dec9010,alias.lighting,available,14.99,,high,low,5,name.com,,,
-212d52e5-22a5-4b40-a923-ce3a7480f5ab,side.lighting,available,14.99,,high,low,4,name.com,,,
+212d52e5-22a5-4b40-a923-ce3a7480f5ab,side.lighting,available,18.2,18.2,high,low,4,cloudflare,,,27/09/2026 21:50
 3cf5e5ab-41b5-4ddc-beaf-bb81023282cc,tropic.lighting,available,22.98,31.98,high,low,6,namecheap,,,11/09/2026 20:25
 46c97648-e873-44cf-8694-4b5f9edffa05,faustian.lighting,available,14.99,33.99,medium,low,8,name.com,,,18/08/2026 00:10
-298be815-c444-4a37-89b3-fb6b14fcc3b4,widely.lighting,available,14.99,,high,low,6,name.com,,,
+298be815-c444-4a37-89b3-fb6b14fcc3b4,widely.lighting,available,14.99,,medium,low,6,name.com,,,
 ce37b380-6370-417d-818f-a7669d365785,whereas.lighting,available,14.99,,high,low,7,name.com,,,
 8c6c9cca-41d2-4ca4-9087-0f4026c729ba,intensive.lighting,available,22.98,31.98,high,low,9,namecheap,,,25/09/2026 09:57
 6269d314-3aab-472a-a477-192123a3b338,arcsin.lighting,available,23.99,23.99,medium,low,6,namesilo,,,20/09/2026 01:26
@@ -565,9 +585,9 @@ e4b14d57-d498-4db1-966f-50295a2c73e1,task.lighting,available,22.98,31.98,high,lo
 ccd19152-9ca2-4027-b7c9-8b96079e0d51,when.lighting,available,14.99,,high,low,4,name.com,,,
 9e328c5e-fdc0-4c51-b60f-c4945177dba3,apoplectic.lighting,available,14.99,33.99,medium,low,10,name.com,,,06/08/2026 03:29
 0c02af0d-0778-46bc-8a4a-a8aced0de33d,scientific.lighting,available,22.98,31.98,high,low,10,namecheap,,,25/09/2026 22:34
-d586d402-86d9-4b62-896f-0fd09295a135,clef.lighting,available,23.99,23.99,high,low,4,namesilo,,,24/09/2026 15:30
+d586d402-86d9-4b62-896f-0fd09295a135,clef.lighting,available,23.99,23.99,medium,low,4,namesilo,,,24/09/2026 15:30
 07544313-3f3a-41b0-8fb0-9ae94fd61d54,trustfully.lighting,available,14.99,33.99,medium,low,10,name.com,,,14/09/2026 08:14
-b8b25c0c-b6b2-4415-bdca-7d1ffef47dca,willingly.lighting,available,23.99,23.99,high,low,9,namesilo,,,16/09/2026 11:08
+b8b25c0c-b6b2-4415-bdca-7d1ffef47dca,willingly.lighting,available,23.99,23.99,medium,low,9,namesilo,,,16/09/2026 11:08
 c0a91f3a-3de9-41b4-83e9-cbe073fbeb47,included.lighting,available,14.99,33.99,high,low,8,name.com,,,22/08/2026 01:33
 bab7d54d-4995-47ee-b3ea-83eae5d31e44,criminals.lighting,available,14.99,33.99,low,low,9,name.com,,,27/09/2026 03:03
 215c18dd-53c0-40ea-8342-5d4dbac520f2,saturday.lighting,available,14.99,,high,low,8,name.com,,,
@@ -597,6 +617,7 @@ e2af3052-1827-431d-952e-5b205ad2f681,vitalizer.lighting,available,23.99,23.99,hi
 df6c21b7-895b-4d1d-abfd-8430fb642ca2,gross.lighting,available,23.99,23.99,high,low,5,namesilo,,,24/09/2026 13:05
 f0f9e065-eb27-49fd-87ec-b6f93f4f38cf,brambly.lighting,available,14.99,33.99,medium,low,7,name.com,,,11/08/2026 01:59
 26d19bc9-05e4-418e-a29c-79754c0230f0,anchorage.lighting,premium,26,26,high,low,9,namecheap,,,19/09/2026 03:43
+530ffb40-0c38-43fe-93ae-850f193dc975,visions.lighting,available,23.99,23.99,high,low,7,namesilo,,,27/09/2026 23:41
 bdf28d39-6824-4e83-8c9a-df621310275f,comedy.lighting,available,23.99,23.99,high,low,6,namesilo,,,24/09/2026 16:25
 a2bf94f1-d946-4957-b813-0d40c509e1ff,scanty.lighting,available,22.98,31.98,medium,low,6,namecheap,,,09/09/2026 22:38
 1bbe1713-3967-4c76-8c8b-7565082527d1,replaces.lighting,available,23.99,23.99,high,low,8,namesilo,,,20/09/2026 05:35
@@ -632,7 +653,7 @@ ff282eb8-1e2c-4a15-9b07-df48c4ee6e17,skilful.lighting,available,23.99,23.99,high
 f4199bef-3432-4936-96e0-021f54862101,modulated.lighting,available,14.99,33.99,medium,low,9,name.com,,,25/08/2026 03:19
 90084207-2747-4db4-9e00-bf09db5bcba5,compliant.lighting,available,23.99,23.99,high,low,9,namesilo,,,23/09/2026 17:44
 e078a707-4916-4966-9a51-1358e3e65551,clipboard.lighting,available,23.99,23.99,high,low,9,namesilo,,,24/09/2026 15:44
-93a8835a-66f9-4c18-b43f-3ae3e26226be,quibble.lighting,available,23.99,23.99,high,low,7,namesilo,,,23/09/2026 13:17
+93a8835a-66f9-4c18-b43f-3ae3e26226be,quibble.lighting,available,23.99,23.99,medium,low,7,namesilo,,,23/09/2026 13:17
 09fbacb2-2660-48cd-88ed-e88b0a0cc895,greek.lighting,available,22.98,31.98,high,low,5,namecheap,,,08/09/2026 07:29
 540fe1ff-6c78-494e-aa74-854f0ad7e585,convenient.lighting,available,14.99,33.99,high,low,10,name.com,,,23/09/2026 15:48
 d6a38dd6-49f2-47b6-9eba-55bd7e75f31e,someway.lighting,available,22.98,31.98,medium,low,7,namecheap,,,15/09/2026 06:46
@@ -655,7 +676,7 @@ a91aa1d4-9472-47e2-a98e-5bc2be94529f,checking.lighting,available,23.99,23.99,hig
 fcc0c1a1-202f-4c75-a41a-25ac25bbe8c4,nowadays.lighting,available,23.99,23.99,high,low,8,namesilo,,,27/09/2026 05:06
 92b08661-0d4c-46dc-ae4b-2295dd77256f,jonathan.lighting,available,23.99,23.99,high,low,8,namesilo,,,25/09/2026 08:03
 e418befc-0098-4d90-8fab-b232a63cb0a5,hysteria.lighting,available,22.98,31.98,high,low,8,namecheap,,,24/09/2026 21:43
-5af84bf8-a126-4aa4-8444-b28be19d44cc,biogenetic.lighting,available,14.99,33.99,high,low,10,name.com,,,10/08/2026 01:12
+5af84bf8-a126-4aa4-8444-b28be19d44cc,biogenetic.lighting,available,14.99,33.99,medium,low,10,name.com,,,10/08/2026 01:12
 1ded82a0-8c69-4a7f-9e40-f8830fa49618,iniquity.lighting,available,14.99,33.99,medium,low,8,name.com,,,17/08/2026 15:08
 44b1fdb6-0377-46f8-97d8-f0df032197c8,leery.lighting,available,14.99,33.99,medium,low,5,name.com,,,22/08/2026 22:26
 bc86a22d-4374-424c-a922-c131149adda6,propellent.lighting,available,22.98,31.98,high,low,10,namecheap,,,09/09/2026 03:28
@@ -670,10 +691,10 @@ cf784e00-4310-4648-8538-1d9835f90e6a,feetfirst.lighting,available,22.98,31.98,me
 a3dc5125-2bbf-4c2b-86ac-fbbf8fe21738,champaign.lighting,available,22.98,31.98,medium,low,9,namecheap,,,08/09/2026 20:30
 0cc42f29-e7aa-406f-b916-a76fbc4b64eb,clinched.lighting,available,14.99,33.99,medium,low,8,name.com,,,12/08/2026 10:46
 1b131342-2609-4ac3-8e15-a7f4554a3b78,cheating.lighting,available,14.99,33.99,medium,low,8,name.com,,,12/08/2026 03:32
-e4f3937b-0b7c-4636-b9d2-f097767e4c41,assignee.lighting,available,23.99,23.99,high,low,8,namesilo,,,20/09/2026 16:23
+e4f3937b-0b7c-4636-b9d2-f097767e4c41,assignee.lighting,available,23.99,23.99,medium,low,8,namesilo,,,20/09/2026 16:23
 6cca4085-a5ce-432a-96b6-4f0db48e97a4,needing.lighting,available,14.99,,high,low,7,name.com,,,
 fdb615f3-8b2d-4a12-82d9-b8be42a2495e,discrete.lighting,available,14.99,33.99,high,low,8,name.com,,,14/08/2026 10:02
-6bac30f6-d408-484f-9423-3cab9339dd71,slovakian.lighting,available,22.98,31.98,high,low,9,namecheap,,,10/09/2026 11:16
+6bac30f6-d408-484f-9423-3cab9339dd71,slovakian.lighting,available,22.98,31.98,medium,low,9,namecheap,,,10/09/2026 11:16
 7a00355a-3b96-4fb0-8ee6-96b594b95d16,veterans.lighting,available,14.99,33.99,high,low,8,name.com,,,18/09/2026 11:06
 a73f9ed4-1499-4a60-b7d7-8d250e76d27c,ask.lighting,premium,23.6,23.6,high,medium,3,namesilo,,,
 a9db5b2b-d06c-42ec-bea9-74efa6b64dd5,berserk.lighting,available,14.99,33.99,medium,low,7,name.com,,,
@@ -724,9 +745,9 @@ ed272969-44d2-4c58-922d-8b1bd8d3e7ff,ashton.lighting,available,23.99,23.99,high,
 46672200-aed3-4f8a-a233-b6727a55bb2b,scentless.lighting,available,22.98,31.98,medium,low,9,namecheap,,,09/09/2026 23:00
 870b2ebb-f3dd-47cb-9539-8b1b0737132c,martha.lighting,available,14.99,,high,low,6,name.com,,,
 9573430d-761e-4f2a-b0d7-825fc28f4c8b,infective.lighting,available,14.99,33.99,medium,low,9,name.com,,,22/08/2026 04:14
-1d502724-3dcc-4bbd-a5b7-082a5ef013d2,nestorian.lighting,available,22.98,31.98,high,low,9,namecheap,,,03/09/2026 15:50
+1d502724-3dcc-4bbd-a5b7-082a5ef013d2,nestorian.lighting,available,22.98,31.98,medium,low,9,namecheap,,,03/09/2026 15:50
 14c53ce2-1289-4577-880a-fb9bc98f263c,ads.lighting,premium,23.6,23.6,high,medium,3,namesilo,,,
-29b54ef9-10ef-4d05-9907-aaf456dd005c,undesirable.lighting,available,14.99,,high,low,11,name.com,,,
+29b54ef9-10ef-4d05-9907-aaf456dd005c,undesirable.lighting,available,14.99,,medium,low,11,name.com,,,
 ec6d52c8-0b2a-44e1-b0d6-2780a6852a50,neglect.lighting,available,14.99,,high,low,7,name.com,,,
 ac49eb47-9907-406a-adfe-d6b5a77c9fa7,crafty.lighting,available,23.99,23.99,high,low,6,namesilo,,,24/09/2026 01:24
 42fcc77f-e398-411d-be7c-95178afea9f2,capitalist.lighting,available,14.99,33.99,high,low,10,name.com,,,11/08/2026 17:55
@@ -753,7 +774,7 @@ f7c9fab5-d230-4183-a332-3d8ded6713c0,sneaky.lighting,available,14.99,33.99,high,
 1c20c049-f563-455b-ab43-18ce841fe61f,capably.lighting,available,22.98,31.98,medium,low,7,namecheap,,,13/09/2026 16:22
 20669898-25c2-494a-a4f3-aec7cc7552d9,darned.lighting,available,14.99,33.99,medium,low,6,name.com,,,10/08/2026 12:41
 119b7158-ff7f-44e7-ab6f-694c65a6f867,appetence.lighting,available,23.99,23.99,medium,low,9,namesilo,,,19/09/2026 20:44
-e0f186ad-b343-442b-bd36-fbed46477afa,mincing.lighting,available,14.99,33.99,high,low,7,name.com,,,13/08/2026 15:43
+e0f186ad-b343-442b-bd36-fbed46477afa,mincing.lighting,available,14.99,33.99,medium,low,7,name.com,,,13/08/2026 15:43
 237f5b32-904c-4736-b2a9-96999c27426d,amort.lighting,available,14.99,33.99,medium,low,5,name.com,,,
 8a464156-4e50-43c9-ac4a-978456331495,tons.lighting,available,14.99,,high,low,4,name.com,,,
 df941f5b-98e6-4553-82f5-b1fd6470aa36,function.lighting,available,14.99,,high,low,8,name.com,,,
@@ -765,7 +786,7 @@ cbb25c5f-1362-4cdf-b072-06068f397b41,wandering.lighting,available,22.98,31.98,hi
 e17b58ee-ae88-4ee6-96f6-0e6a47b397ab,worn.lighting,available,22.98,31.98,high,low,4,namecheap,,,23/09/2026 12:58
 d2a91a23-0439-4a0b-ba9e-51834b33723b,vicarious.lighting,available,22.98,31.98,medium,low,9,namecheap,,,13/09/2026 05:15
 9fa84219-345c-42b5-9cea-5faa8e9fac27,steaming.lighting,available,22.98,31.98,medium,low,8,namecheap,,,10/09/2026 19:42
-73f1ae6d-7701-441e-994f-e1b31f90ca5d,aram.lighting,available,23.99,23.99,high,low,4,namesilo,,,19/09/2026 23:55
+73f1ae6d-7701-441e-994f-e1b31f90ca5d,aram.lighting,available,23.99,23.99,medium,low,4,namesilo,,,19/09/2026 23:55
 fc69b1da-c75f-40d3-9d62-a886e1310251,allele.lighting,available,22.98,31.98,medium,low,6,namecheap,,,18/09/2026 10:44
 b0180192-c5bb-44e1-93ca-b7e232348453,choir.lighting,available,14.99,,high,low,5,name.com,,,
 3464f81b-34df-46fa-9243-23b917d0b769,hyoid.lighting,available,14.99,33.99,medium,low,5,name.com,,,21/08/2026 16:35
@@ -774,9 +795,10 @@ dc9a3ae0-e126-480c-a240-e21b0e53c8b9,meld.lighting,available,23.99,23.99,high,lo
 16c3aafd-924f-459f-bd03-cca0e450bdb4,depot.lighting,available,22.98,31.98,high,low,5,namecheap,,,11/09/2026 11:49
 672ce227-beeb-4f3f-bfc2-87a0a257af3f,fetid.lighting,available,14.99,33.99,medium,low,5,name.com,,,18/08/2026 02:24
 b577786b-76f8-4c36-96f9-4d13e0b61d70,fatefully.lighting,available,22.98,31.98,medium,low,9,namecheap,,,14/09/2026 17:53
-abee117a-8993-47dc-9cf7-49f2923660d1,such.lighting,available,14.99,,high,low,4,name.com,,,
-e8646ac5-fc9b-44cb-9234-47d625a58d67,mayoral.lighting,available,14.99,33.99,high,low,7,name.com,,,24/08/2026 18:00
+abee117a-8993-47dc-9cf7-49f2923660d1,such.lighting,available,23.99,23.99,high,low,4,namesilo,,,28/09/2026 01:50
+e8646ac5-fc9b-44cb-9234-47d625a58d67,mayoral.lighting,available,14.99,33.99,medium,low,7,name.com,,,24/08/2026 18:00
 8308b12e-505b-4035-8a8a-e14a33e2d3cb,aerobe.lighting,available,23.99,23.99,medium,low,6,namesilo,,,17/09/2026 12:54
+0bf3ca7c-76aa-4ace-a59b-63a88da8ede2,sings.lighting,available,18.83,18.83,medium,low,5,spaceship,,,27/09/2026 23:41
 953e7117-33f6-4ee7-ad0f-3a258847c1a8,taxi.lighting,available,22.98,31.98,high,low,4,namecheap,,,24/09/2026 11:29
 968fe393-421a-47cc-99a4-737385e377a9,laurel.lighting,available,23.99,23.99,high,low,6,namesilo,,,20/09/2026 11:06
 7b9b6763-5679-4692-bc7c-0bd0211cbd34,financial.lighting,available,23.99,23.99,high,low,9,namesilo,,,23/09/2026 07:40
@@ -786,7 +808,7 @@ d135ddf1-d0bc-47c5-9b88-6ceb4fe33841,punishment.lighting,available,23.99,23.99,h
 93e66569-c2cb-4d91-be18-25bec733e288,geeks.lighting,available,23.99,23.99,medium,low,5,namesilo,,,17/09/2026 16:02
 c652c3b7-f685-484c-891b-2941b9d6306d,peevish.lighting,available,14.99,33.99,medium,low,7,name.com,,,22/08/2026 10:21
 42323795-f0ed-48c3-8d78-e62d9203f2d6,stressful.lighting,available,22.98,31.98,medium,low,9,namecheap,,,03/09/2026 15:42
-0dbc795c-284f-4ec5-a2a6-265473b2c88a,handed.lighting,available,14.99,33.99,high,low,6,name.com,,,20/08/2026 23:25
+0dbc795c-284f-4ec5-a2a6-265473b2c88a,handed.lighting,available,14.99,33.99,medium,low,6,name.com,,,20/08/2026 23:25
 28a170f9-767d-4f39-8342-c96ed2002c0e,nosocomial.lighting,available,22.98,31.98,low,low,10,namecheap,,,03/09/2026 21:56
 547f80cc-b1dc-409a-ae80-fc0c89c8df9b,carelessly.lighting,available,22.98,31.98,medium,low,10,namecheap,,,14/09/2026 05:19
 d4411612-ef66-40e2-ac32-4c97edb7b214,lullaby.lighting,available,23.99,23.99,high,low,7,namesilo,,,23/09/2026 09:09
@@ -810,6 +832,7 @@ f95f8883-5d5b-4ae7-acb5-afb26bef9dc5,gran.lighting,available,14.99,,high,low,4,n
 1a73ce04-30e4-418c-a557-0368bce80fe3,aria.lighting,available,23.99,23.99,high,medium,4,namesilo,,,20/09/2026 05:09
 c4474329-48c7-488e-93eb-f9d885f3f576,gyral.lighting,available,14.99,33.99,medium,low,5,name.com,,,20/08/2026 21:19
 3f23ebbe-c09a-4d2f-95a8-cb13fb1fabdc,stability.lighting,available,14.99,,high,low,9,name.com,,,
+3a4cb394-7c44-42fe-9a0f-c326908862b2,liar.lighting,available,23.99,23.99,high,low,4,namesilo,,,27/09/2026 14:44
 d89ac103-478c-4701-baac-f4bfba8f28f6,chairmen.lighting,available,23.99,23.99,medium,low,8,namesilo,,,18/09/2026 22:56
 3783179b-2826-4c7f-b029-52bc43d1e579,abator.lighting,available,23.99,23.99,medium,low,6,namesilo,,,16/09/2026 14:13
 a70526d4-57a7-44ec-8bab-1f418bf675ea,amperage.lighting,available,22.98,31.98,high,low,8,namecheap,,,18/09/2026 23:07
@@ -824,6 +847,7 @@ c70868da-13b4-4880-999a-89d022b3a7d9,westminster.lighting,available,14.99,,high,
 9ffaa7a9-60d3-42b3-969a-c142e5e23fcf,akka.lighting,available,23.99,23.99,high,low,4,namesilo,,,16/09/2026 22:23
 56ec8c6c-a896-445c-b140-824ff46a0ede,lid.lighting,premium,23.6,23.6,high,low,3,namesilo,,,24/09/2026 13:43
 0718bbd9-f09e-43bd-b295-33ff9e73fac8,jovially.lighting,available,22.98,31.98,medium,low,8,namecheap,,,15/09/2026 09:51
+c25648b4-3cf0-4aee-b80d-15a75741f41a,validation.lighting,available,18.83,18.83,high,low,10,spaceship,,,28/09/2026 02:30
 4cfaa279-f060-4ad6-a4b9-1e6ef9301ed0,beat.lighting,available,22.98,31.98,high,low,4,namecheap,,,22/09/2026 18:37
 e72bc785-c62c-4c8a-8ad1-0bdf9e10bb2a,cissy.lighting,available,14.99,33.99,medium,low,5,name.com,,,12/08/2026 08:40
 e835fa34-9236-45ec-aedc-63a6abafbb64,anthriscus.lighting,available,23.99,23.99,medium,low,10,namesilo,,,19/09/2026 13:53
@@ -834,7 +858,7 @@ ddd81d61-f15b-40a8-bff6-f00b8f88abde,augmentin.lighting,available,22.98,31.98,me
 04f11a33-30ae-4d90-81c8-f9594f47b2d5,licentious.lighting,available,14.99,33.99,medium,low,10,name.com,,,23/08/2026 00:56
 49783a7d-00ae-4c11-97f8-049419ca9ab0,credal.lighting,available,14.99,33.99,medium,low,6,name.com,,,13/08/2026 05:52
 086b28ef-405d-4b6b-9d0b-e540462e29e0,frigid.lighting,available,14.99,33.99,medium,low,6,name.com,,,18/08/2026 15:46
-c098bac2-0c8d-4f6b-b773-4f4c8714c166,stemmed.lighting,available,14.99,33.99,high,low,7,name.com,,,11/08/2026 22:33
+c098bac2-0c8d-4f6b-b773-4f4c8714c166,stemmed.lighting,available,14.99,33.99,medium,low,7,name.com,,,11/08/2026 22:33
 5d375a08-9882-424e-bbb8-d3bd9c3b8ef0,agnathan.lighting,available,22.98,31.98,medium,low,8,namecheap,,,17/09/2026 18:33
 9e8fe6c5-1b82-4a00-8295-21fe19e607f2,finishing.lighting,available,22.98,31.98,high,low,9,namecheap,,,27/09/2026 03:58
 87d39e11-0507-4b27-81bb-3fa99c98824c,cope.lighting,available,22.98,31.98,high,low,4,namecheap,,,24/09/2026 18:08
@@ -847,6 +871,7 @@ a21ee5fe-413a-423a-967d-dd56139ca47c,adored.lighting,available,22.98,31.98,high,
 82e43195-d236-4de8-b5e7-a13ce99d083f,fittest.lighting,available,23.99,23.99,medium,low,7,namesilo,,,18/09/2026 04:12
 8830c713-0d73-4ca1-8a84-30f98676e769,distal.lighting,available,14.99,33.99,medium,low,6,name.com,,,14/08/2026 13:03
 0f6588f9-0188-4b7f-89e9-aafc2bc52422,ambled.lighting,available,23.99,23.99,medium,low,6,namesilo,,,20/09/2026 05:58
+390a1850-4642-4725-b1eb-50821737bfdf,paperwork.lighting,available,18.83,18.83,high,low,9,spaceship,,,28/09/2026 02:53
 8236c557-811b-4a4e-b45f-549f68b19d36,nomothetic.lighting,available,14.99,33.99,medium,low,10,name.com,,,03/09/2026 18:22
 d60f1275-e1de-4dae-bb15-0cbf1cdfdaae,overmuch.lighting,available,22.98,31.98,medium,low,8,namecheap,,,04/09/2026 21:13
 cdda95fe-9c3c-4499-8062-5556c045166e,tawny.lighting,available,22.98,31.98,high,low,5,namecheap,,,11/09/2026 09:19
@@ -863,9 +888,9 @@ e281dd18-9976-40b7-9e30-145c98d8c66a,azote.lighting,available,22.98,31.98,medium
 928e64ba-3663-4282-88aa-cafacdd08451,venereal.lighting,available,14.99,33.99,medium,low,8,name.com,,,18/08/2026 21:42
 f1d0bc2c-fd0d-4404-8ce6-cf94cf557eb0,quarters.lighting,available,14.99,,high,low,8,name.com,,,
 342d4339-d21a-4a42-a920-07be0087dcd9,deface.lighting,available,23.99,23.99,medium,low,6,namesilo,,,24/09/2026 05:35
-52bd57d4-0c81-4d67-9bf5-1af0f07b4d29,culturally.lighting,available,22.98,31.98,high,low,10,namecheap,,,14/09/2026 09:57
+52bd57d4-0c81-4d67-9bf5-1af0f07b4d29,culturally.lighting,available,22.98,31.98,medium,low,10,namecheap,,,14/09/2026 09:57
 0e2935aa-f957-4a56-aa3f-1f698b57124c,nutlike.lighting,available,22.98,31.98,medium,low,7,namecheap,,,03/09/2026 23:16
-acb9cce2-43e5-40a4-bba9-515376e51cda,elusive.lighting,available,14.99,33.99,high,low,7,name.com,,,08/08/2026 08:07
+acb9cce2-43e5-40a4-bba9-515376e51cda,elusive.lighting,available,14.99,33.99,medium,low,7,name.com,,,08/08/2026 08:07
 621629d2-58e4-44c8-87c4-98f24659f849,beak.lighting,available,23.99,23.99,high,low,4,namesilo,,,22/09/2026 19:41
 444af857-4114-4322-b258-5954bbd0ea1b,dreamer.lighting,available,23.99,23.99,high,low,7,namesilo,,,24/09/2026 23:59
 ca1dcec9-5e05-41ba-9bf1-3929c46bc15c,photographers.lighting,available,23.99,23.99,medium,low,13,namesilo,,,19/09/2026 22:58
@@ -881,7 +906,7 @@ abe4d3f9-8fc3-4f44-914b-487699f96d1d,excitement.lighting,available,23.99,23.99,h
 bb143c60-b022-4383-ab2c-8d08f82b4562,inundated.lighting,available,14.99,33.99,medium,low,9,name.com,,,08/08/2026 00:29
 bcc1f9df-5bb7-49f8-9913-b74d6198ca95,parenting.lighting,available,14.99,,high,low,9,name.com,,,
 75365f59-d094-46e8-b1a2-43e96a8a2405,beach.lighting,available,14.99,,high,low,5,name.com,,,
-fab46203-3550-42f1-89a1-09727a345c45,brunette.lighting,available,14.99,33.99,high,low,8,name.com,,,11/08/2026 06:56
+fab46203-3550-42f1-89a1-09727a345c45,brunette.lighting,available,14.99,33.99,medium,low,8,name.com,,,11/08/2026 06:56
 72cf2ea2-2411-449c-be95-183aeb441289,comforter.lighting,available,23.99,23.99,medium,low,9,namesilo,,,18/09/2026 10:03
 05125be8-1add-47e7-a625-27af54165da3,painkiller.lighting,available,14.99,33.99,high,low,10,name.com,,,
 b1fca478-66f5-430d-8d42-536b9f5f0d25,straining.lighting,available,22.98,31.98,medium,low,9,namecheap,,,10/09/2026 21:43
@@ -896,7 +921,7 @@ ef3f6b86-ab04-4bf8-bff8-949c33d58d23,shadowy.lighting,available,22.98,31.98,medi
 064c1b62-da9a-40cc-a38d-e99400ceee50,gamble.lighting,available,23.99,23.99,high,low,6,namesilo,,,17/09/2026 10:37
 4e3462a7-6e4f-4a60-a989-d38cdec3bf54,brotherhood.lighting,available,14.99,,high,low,11,name.com,,,
 1bf4a090-bc1c-4738-9261-73a59391ba6d,facing.lighting,available,14.99,,high,low,6,name.com,,,
-222ae471-b815-4f6d-8c0b-6f96e1665b32,forgery.lighting,available,14.99,33.99,high,low,7,name.com,,,13/08/2026 03:36
+222ae471-b815-4f6d-8c0b-6f96e1665b32,forgery.lighting,available,14.99,33.99,medium,low,7,name.com,,,13/08/2026 03:36
 7543fb9a-e444-46ec-af16-5391a74335dd,eater.lighting,available,23.99,23.99,high,low,5,namesilo,,,19/09/2026 09:42
 8d1c4d26-f698-4507-923b-a433a13deb52,soil.lighting,available,23.99,23.99,high,low,4,namesilo,,,24/09/2026 02:55
 ab72d1d1-42f8-46af-be18-85a55de11e67,sabbatic.lighting,available,22.98,31.98,medium,low,8,namecheap,,,09/09/2026 20:32
@@ -931,7 +956,7 @@ a2ed0836-3db6-4844-bb71-147c0ac7d911,blower.lighting,available,14.99,33.99,mediu
 5a18e1e0-8397-48f8-9145-66c632ffc28a,bowman.lighting,available,23.99,23.99,medium,low,6,namesilo,,,20/09/2026 01:56
 26ceef06-cf54-4beb-9029-d0561be714ea,cigarette.lighting,available,14.99,33.99,high,low,9,name.com,,,25/09/2026 04:15
 aadb3988-6980-453f-90cb-90f27e42be9a,investigation.lighting,available,22.98,31.98,high,low,13,namecheap,,,25/09/2026 17:01
-3c0c88f0-d6c0-4111-877b-f07f7f757fcc,weary.lighting,available,23.99,23.99,high,low,5,namesilo,,,22/09/2026 15:10
+3c0c88f0-d6c0-4111-877b-f07f7f757fcc,weary.lighting,available,23.99,23.99,medium,low,5,namesilo,,,22/09/2026 15:10
 dff3d59a-a9d0-4f08-ae44-17fce08cc967,searching.lighting,available,23.99,23.99,high,low,9,namesilo,,,25/09/2026 09:44
 b87dab30-c35f-4f8e-8c8f-b0b67f21de44,caddish.lighting,available,14.99,33.99,low,low,7,name.com,,,11/08/2026 12:43
 be1295f9-966e-4a8d-9e7e-4f470d712538,placate.lighting,available,14.99,33.99,high,low,7,name.com,,,18/08/2026 22:12
@@ -957,7 +982,7 @@ c67b2a89-6c19-4ed1-997f-4c9bdbd071ba,cinderella.lighting,available,14.99,,high,l
 e2bb70c8-c611-4f8e-a321-9afd85ff625e,fabian.lighting,available,14.99,33.99,high,low,6,name.com,,,17/08/2026 20:10
 2cd830b0-6d56-4b35-99d5-dc308ad72e02,typic.lighting,available,22.98,31.98,medium,low,5,namecheap,,,11/09/2026 22:29
 6572f4b8-385e-48fa-a9a2-ebc48b15fe0f,whether.lighting,available,14.99,,high,low,7,name.com,,,
-c556030d-d0b5-40bf-9196-ab1ade03a913,bending.lighting,available,23.99,23.99,high,low,7,namesilo,,,23/09/2026 07:44
+c556030d-d0b5-40bf-9196-ab1ade03a913,bending.lighting,available,23.99,23.99,medium,low,7,namesilo,,,23/09/2026 07:44
 3b6340d3-9ddd-4549-af46-b4efe1c9f5c2,admiral.lighting,available,23.99,23.99,high,low,7,namesilo,,,17/09/2026 08:46
 cec47dbc-8228-4ee9-9776-02221c7e1847,bedtime.lighting,available,23.99,23.99,high,low,7,namesilo,,,22/09/2026 23:43
 36e8cb35-798a-41b2-b6a0-c820b917bc77,germany.lighting,available,,,high,high,7,,,,
@@ -972,30 +997,5 @@ e8d97801-69f4-4e11-9d6d-18bfde7cfc94,dice.lighting,available,14.99,,high,low,4,n
 2bbb0b7b-308c-4064-843d-91cc7891160a,semitropic.lighting,available,22.98,31.98,medium,low,10,namecheap,,,10/09/2026 03:36
 e855feea-9815-4cb6-b176-8e64ba2b76f8,sideburns.lighting,available,14.99,,high,low,9,name.com,,,
 3f626a2c-af6b-4113-8136-063c0e113d93,timeless.lighting,available,22.98,31.98,high,low,8,namecheap,,,11/09/2026 16:02
+47cf6b0e-9c95-4d0a-9e7e-095f6826b4d3,eli.lighting,available,18.83,18.83,high,low,3,spaceship,,,27/09/2026 18:02
 8985f25d-b7da-437c-8905-fdceb969d1cb,goonie.lighting,available,23.99,23.99,medium,low,6,namesilo,,,23/09/2026 23:45
-41e45d54-f7ab-47a6-84fa-419fd163a5ce,arsenide.lighting,available,23.99,23.99,medium,low,8,namesilo,,,20/09/2026 09:41
-0d727f3d-6331-40c2-9b9e-33fa1de346c6,fda.lighting,available,14.99,33.99,high,low,3,name.com,,,25/09/2026 05:55
-beef1b35-4690-4e31-ab5e-bdbbffe7e3d7,perinatal.lighting,available,22.98,31.98,medium,low,9,namecheap,,,08/09/2026 17:07
-6908adc9-bc45-410a-9b1c-4d62eae344c3,pronounced.lighting,available,23.99,23.99,high,low,10,namesilo,,,25/09/2026 16:53
-9a3c81d3-b94b-4d8d-a4a0-6d6635ab9690,brought.lighting,available,14.99,,medium,low,7,name.com,,,
-2a39b4b4-8594-4225-809c-bbc23506e57b,arum.lighting,available,14.99,33.99,medium,low,4,name.com,,,06/08/2026 20:20
-17f76d25-8fd1-4c96-8ef8-a8bd5da5f8b6,weave.lighting,available,14.99,,high,low,5,name.com,,,
-7fd4cc0a-8332-4ac6-b471-700dde3739e8,oversize.lighting,available,22.98,31.98,high,low,8,namecheap,,,04/09/2026 19:42
-b7e41471-861e-4833-9795-04e95409fc80,lulu.lighting,available,14.99,33.99,high,low,4,name.com,,,22/08/2026 16:47
-7bf88b79-91e8-4ebd-ac98-fbf235aa415f,puffed.lighting,available,22.98,31.98,high,low,6,namecheap,,,09/09/2026 05:37
-ad8ab195-9392-42cc-90b1-5ad6654fb753,betwixt.lighting,available,22.98,31.98,medium,low,7,namecheap,,,14/09/2026 00:01
-c666115a-bee3-4d9c-b2e9-f6439e28f893,ill.lighting,premium,23.6,23.6,high,low,3,namesilo,,,25/09/2026 07:33
-0cbde0c8-b4af-41cc-8794-75855dfa0752,thundering.lighting,available,22.98,31.98,high,low,10,namecheap,,,11/09/2026 15:14
-83c39970-ebc0-4765-835a-4805d6a03354,hexed.lighting,available,14.99,33.99,medium,low,5,name.com,,,21/08/2026 07:51
-13c0446c-1952-4427-8517-04ac144e9413,bade.lighting,available,23.99,23.99,high,low,4,namesilo,,,21/09/2026 17:00
-f1078ab1-0eac-4dcb-8605-a24393d1b6b7,limp.lighting,available,14.99,33.99,high,low,4,name.com,,,23/08/2026 12:39
-1782c4ec-8af8-4114-88ab-7e0981a61000,accrual.lighting,available,23.99,23.99,medium,low,7,namesilo,,,16/09/2026 23:14
-fee43cb0-8ebc-41fa-8f97-db8c3722db33,resources.lighting,available,14.99,,high,low,9,name.com,,,
-2a947c68-b536-4740-a8fd-e6ab38cc7c27,backgrounds.lighting,available,23.99,23.99,medium,low,11,namesilo,,,20/09/2026 22:12
-5b26716a-7aef-4a08-b77a-666f001f5263,impractical.lighting,available,14.99,,medium,low,11,name.com,,,
-f8075ad8-f8b9-4a8b-9ffa-aa9c049676a8,rapid.lighting,available,23.99,23.99,high,low,5,namesilo,,,19/09/2026 15:13
-b578ebea-5605-4a79-897e-29098c2446f7,teased.lighting,available,14.99,33.99,medium,low,6,name.com,,,11/09/2026 09:55
-7fd7c9a8-72e9-4b56-815e-1c8cfb75eb43,amigo.lighting,available,22.98,31.98,high,low,5,namecheap,,,18/09/2026 21:37
-7f754127-8a2f-4206-b261-6ea131329ce5,waterloo.lighting,available,23.99,23.99,high,low,8,namesilo,,,22/09/2026 16:19
-b541456c-cb97-42d3-8a2e-b9949fe4ae82,dozen.lighting,available,23.99,23.99,high,low,5,namesilo,,,21/09/2026 11:29
-2c2ff35f-48c7-4acf-9aae-0f5ba8b6c0c6,mothafucka.lighting,available,14.99,,medium,low,10,name.com,,,
